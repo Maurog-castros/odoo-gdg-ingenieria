@@ -68,3 +68,5 @@ El script evita duplicar contactos, productos, oportunidades y documentos con lo
 ## Organización de demos
 
 Los nuevos casos de prueba se organizan en [demos](demos/README.md), separados por área funcional. Cada demo debe incluir una explicación sencilla en `README.md`, datos ficticios en `data/` y automatizaciones en `scripts/` cuando sean necesarias.
+
+La información de contexto para futuros casos está resumida en [Perfil de GDG Ingeniería](docs/perfil-empresa-gdg.md) y en el [Mapeo inicial](docs/mapeo-inicial-gdg.md), convertido desde las notas originales de la reunión.
