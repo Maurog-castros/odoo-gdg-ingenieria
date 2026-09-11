@@ -1,0 +1,346 @@
+{
+  "communities": {
+    "0": [
+      "agents_skills_caveman_compress_scripts_validate",
+      "agents_skills_caveman_compress_scripts_validate_count_bullets",
+      "agents_skills_caveman_compress_scripts_validate_extract_code_blocks",
+      "agents_skills_caveman_compress_scripts_validate_extract_fenced_spans",
+      "agents_skills_caveman_compress_scripts_validate_extract_headings",
+      "agents_skills_caveman_compress_scripts_validate_extract_indented_code_blocks",
+      "agents_skills_caveman_compress_scripts_validate_extract_inline_codes",
+      "agents_skills_caveman_compress_scripts_validate_extract_paths",
+      "agents_skills_caveman_compress_scripts_validate_extract_urls",
+      "agents_skills_caveman_compress_scripts_validate_py_path",
+      "agents_skills_caveman_compress_scripts_validate_rationale_122",
+      "agents_skills_caveman_compress_scripts_validate_rationale_196",
+      "agents_skills_caveman_compress_scripts_validate_rationale_238",
+      "agents_skills_caveman_compress_scripts_validate_rationale_315",
+      "agents_skills_caveman_compress_scripts_validate_rationale_69",
+      "agents_skills_caveman_compress_scripts_validate_read_file",
+      "agents_skills_caveman_compress_scripts_validate_validate",
+      "agents_skills_caveman_compress_scripts_validate_validate_bullets",
+      "agents_skills_caveman_compress_scripts_validate_validate_code_blocks",
+      "agents_skills_caveman_compress_scripts_validate_validate_headings",
+      "agents_skills_caveman_compress_scripts_validate_validate_inline_codes",
+      "agents_skills_caveman_compress_scripts_validate_validate_inline_codes_render_spans",
+      "agents_skills_caveman_compress_scripts_validate_validate_paths",
+      "agents_skills_caveman_compress_scripts_validate_validate_urls",
+      "agents_skills_caveman_compress_scripts_validate_validationresult",
+      "agents_skills_caveman_compress_scripts_validate_validationresult_add_error",
+      "agents_skills_caveman_compress_scripts_validate_validationresult_add_warning",
+      "agents_skills_caveman_compress_scripts_validate_validationresult_init"
+    ],
+    "1": [
+      "agents_skills_caveman_compress_scripts_cli",
+      "agents_skills_caveman_compress_scripts_cli_main",
+      "agents_skills_caveman_compress_scripts_cli_print_usage",
+      "agents_skills_caveman_compress_scripts_cli_rationale_2",
+      "agents_skills_caveman_compress_scripts_detect",
+      "agents_skills_caveman_compress_scripts_detect_detect_file_type",
+      "agents_skills_caveman_compress_scripts_detect_is_code_line",
+      "agents_skills_caveman_compress_scripts_detect_is_json_content",
+      "agents_skills_caveman_compress_scripts_detect_is_yaml_content",
+      "agents_skills_caveman_compress_scripts_detect_py_path",
+      "agents_skills_caveman_compress_scripts_detect_rationale_124",
+      "agents_skills_caveman_compress_scripts_detect_rationale_2",
+      "agents_skills_caveman_compress_scripts_detect_rationale_48",
+      "agents_skills_caveman_compress_scripts_detect_rationale_53",
+      "agents_skills_caveman_compress_scripts_detect_rationale_62",
+      "agents_skills_caveman_compress_scripts_detect_rationale_78",
+      "agents_skills_caveman_compress_scripts_detect_should_compress",
+      "agents_skills_caveman_compress_scripts_main"
+    ],
+    "2": [
+      "agents_skills_caveman_compress_scripts_compress",
+      "agents_skills_caveman_compress_scripts_compress_build_compress_prompt",
+      "agents_skills_caveman_compress_scripts_compress_build_fix_prompt",
+      "agents_skills_caveman_compress_scripts_compress_compress_file_locked",
+      "agents_skills_caveman_compress_scripts_compress_first_nonblank_line",
+      "agents_skills_caveman_compress_scripts_compress_is_smaller_than_body",
+      "agents_skills_caveman_compress_scripts_compress_mask_code_blocks",
+      "agents_skills_caveman_compress_scripts_compress_rationale_2",
+      "agents_skills_caveman_compress_scripts_compress_rationale_334",
+      "agents_skills_caveman_compress_scripts_compress_rationale_367",
+      "agents_skills_caveman_compress_scripts_compress_rationale_50",
+      "agents_skills_caveman_compress_scripts_compress_rationale_518",
+      "agents_skills_caveman_compress_scripts_compress_rationale_566",
+      "agents_skills_caveman_compress_scripts_compress_rationale_618",
+      "agents_skills_caveman_compress_scripts_compress_restore_code_blocks",
+      "agents_skills_caveman_compress_scripts_compress_split_frontmatter"
+    ],
+    "3": [
+      "agents_skills_caveman_explore_package",
+      "agents_skills_caveman_explore_package_description",
+      "agents_skills_caveman_explore_package_files",
+      "agents_skills_caveman_explore_package_license",
+      "agents_skills_caveman_explore_package_name",
+      "agents_skills_caveman_explore_package_private",
+      "agents_skills_caveman_explore_package_scripts",
+      "agents_skills_caveman_explore_package_scripts_test",
+      "agents_skills_caveman_explore_package_type",
+      "agents_skills_caveman_explore_package_version"
+    ],
+    "4": [
+      "agents_skills_caveman_learn_package",
+      "agents_skills_caveman_learn_package_description",
+      "agents_skills_caveman_learn_package_files",
+      "agents_skills_caveman_learn_package_license",
+      "agents_skills_caveman_learn_package_name",
+      "agents_skills_caveman_learn_package_private",
+      "agents_skills_caveman_learn_package_scripts",
+      "agents_skills_caveman_learn_package_scripts_test",
+      "agents_skills_caveman_learn_package_type",
+      "agents_skills_caveman_learn_package_version"
+    ],
+    "5": [
+      "agents_skills_caveman_compress_scripts_compress_file_lock",
+      "agents_skills_caveman_compress_scripts_compress_locktimeouterror",
+      "agents_skills_caveman_compress_scripts_compress_rationale_114",
+      "agents_skills_caveman_compress_scripts_compress_rationale_126",
+      "agents_skills_caveman_compress_scripts_compress_rationale_139",
+      "agents_skills_caveman_compress_scripts_compress_rationale_151",
+      "agents_skills_caveman_compress_scripts_compress_try_lock_nonblocking",
+      "agents_skills_caveman_compress_scripts_compress_unlock",
+      "timeouterror"
+    ],
+    "6": [
+      "script_demo_nuevo_item_compra",
+      "script_demo_nuevo_item_compra_call",
+      "script_demo_nuevo_item_compra_database_from_url",
+      "script_demo_nuevo_item_compra_find_id",
+      "script_demo_nuevo_item_compra_get_or_create_order",
+      "script_demo_nuevo_item_compra_get_or_create_product",
+      "script_demo_nuevo_item_compra_load_env",
+      "script_demo_nuevo_item_compra_main",
+      "script_demo_nuevo_item_compra_rationale_2"
+    ],
+    "7": [
+      "script_seed_demo_data",
+      "script_seed_demo_data_available_models",
+      "script_seed_demo_data_call",
+      "script_seed_demo_data_database_from_url",
+      "script_seed_demo_data_find_one",
+      "script_seed_demo_data_get_or_create",
+      "script_seed_demo_data_load_env",
+      "script_seed_demo_data_main",
+      "script_seed_demo_data_rationale_2"
+    ],
+    "8": [
+      "script_creacion_usuarios_create_users",
+      "script_creacion_usuarios_create_users_discover_database",
+      "script_creacion_usuarios_create_users_find_group_id",
+      "script_creacion_usuarios_create_users_load_env",
+      "script_creacion_usuarios_create_users_main",
+      "script_creacion_usuarios_create_users_rationale_2",
+      "script_creacion_usuarios_create_users_rpc_call"
+    ],
+    "9": [
+      "agents_skills_caveman_compress_scripts_benchmark",
+      "agents_skills_caveman_compress_scripts_benchmark_benchmark_pair",
+      "agents_skills_caveman_compress_scripts_benchmark_count_tokens",
+      "agents_skills_caveman_compress_scripts_benchmark_main",
+      "agents_skills_caveman_compress_scripts_benchmark_print_table",
+      "agents_skills_caveman_compress_scripts_benchmark_py_path"
+    ],
+    "10": [
+      "agents_skills_caveman_compress_scripts_compress_backup_dir_for",
+      "agents_skills_caveman_compress_scripts_compress_lock_path_for",
+      "agents_skills_caveman_compress_scripts_compress_rationale_105",
+      "agents_skills_caveman_compress_scripts_compress_rationale_118",
+      "agents_skills_caveman_compress_scripts_compress_rationale_94",
+      "agents_skills_caveman_compress_scripts_compress_state_base_dir"
+    ],
+    "11": [
+      "agents_skills_caveman_compress_scripts_compress_compress_file",
+      "agents_skills_caveman_compress_scripts_compress_is_sensitive_path",
+      "agents_skills_caveman_compress_scripts_compress_py_path",
+      "agents_skills_caveman_compress_scripts_compress_rationale_198",
+      "agents_skills_caveman_compress_scripts_compress_rationale_300",
+      "agents_skills_caveman_compress_scripts_compress_read_source"
+    ],
+    "12": [
+      "agents_skills_caveman_compress_scripts_compress_rationale_255",
+      "agents_skills_caveman_compress_scripts_compress_rationale_278",
+      "agents_skills_caveman_compress_scripts_compress_rationale_343",
+      "agents_skills_caveman_compress_scripts_compress_write_bytes_atomic",
+      "agents_skills_caveman_compress_scripts_compress_write_target",
+      "agents_skills_caveman_compress_scripts_compress_write_text_atomic"
+    ],
+    "13": [
+      "agents_skills_caveman_compress_scripts_compress_call_claude",
+      "agents_skills_caveman_compress_scripts_compress_rationale_217",
+      "agents_skills_caveman_compress_scripts_compress_rationale_401",
+      "agents_skills_caveman_compress_scripts_compress_strip_llm_wrapper"
+    ],
+    "14": [
+      "agents_skills_caveman_explore_tests_skill_file_test",
+      "agents_skills_caveman_explore_tests_skill_file_test_frontmatter",
+      "agents_skills_caveman_explore_tests_skill_file_test_md",
+      "agents_skills_caveman_explore_tests_skill_file_test_skillfile"
+    ],
+    "15": [
+      "agents_skills_caveman_learn_tests_index",
+      "agents_skills_caveman_learn_tests_skill_file_test",
+      "agents_skills_caveman_learn_tests_skill_file_test_skill"
+    ],
+    "16": [
+      "agents_skills_caveman_compress_scripts_init",
+      "agents_skills_caveman_compress_scripts_init_rationale_1"
+    ],
+    "17": [
+      "script_creacion_usuarios_demo_users",
+      "script_creacion_usuarios_demo_users_sh__entry"
+    ]
+  },
+  "cohesion": {
+    "0": 0.11904761904761904,
+    "1": 0.1830065359477124,
+    "2": 0.18333333333333332,
+    "3": 0.2,
+    "4": 0.2,
+    "5": 0.2222222222222222,
+    "6": 0.5,
+    "7": 0.4722222222222222,
+    "8": 0.5238095238095238,
+    "9": 0.6,
+    "10": 0.4,
+    "11": 0.4,
+    "12": 0.4,
+    "13": 0.5,
+    "14": 0.5,
+    "15": 0.6666666666666666,
+    "16": 1.0,
+    "17": 1.0
+  },
+  "gods": [
+    {
+      "id": "agents_skills_caveman_compress_scripts_compress_compress_file_locked",
+      "label": "_compress_file_locked()",
+      "degree": 18
+    },
+    {
+      "id": "agents_skills_caveman_compress_scripts_validate_validate",
+      "label": "validate()",
+      "degree": 14
+    },
+    {
+      "id": "agents_skills_caveman_compress_scripts_detect_detect_file_type",
+      "label": "detect_file_type()",
+      "degree": 9
+    },
+    {
+      "id": "agents_skills_caveman_compress_scripts_detect_should_compress",
+      "label": "should_compress()",
+      "degree": 8
+    },
+    {
+      "id": "agents_skills_caveman_compress_scripts_compress_backup_dir_for",
+      "label": "backup_dir_for()",
+      "degree": 8
+    },
+    {
+      "id": "agents_skills_caveman_compress_scripts_compress_file_lock",
+      "label": "file_lock()",
+      "degree": 8
+    },
+    {
+      "id": "agents_skills_caveman_compress_scripts_cli_main",
+      "label": "main()",
+      "degree": 7
+    },
+    {
+      "id": "agents_skills_caveman_compress_scripts_compress_compress_file",
+      "label": "compress_file()",
+      "degree": 7
+    },
+    {
+      "id": "agents_skills_caveman_compress_scripts_compress_lock_path_for",
+      "label": "lock_path_for()",
+      "degree": 6
+    },
+    {
+      "id": "agents_skills_caveman_compress_scripts_compress_write_bytes_atomic",
+      "label": "write_bytes_atomic()",
+      "degree": 6
+    }
+  ],
+  "surprises": [
+    {
+      "source": "benchmark_pair()",
+      "target": "validate()",
+      "source_files": [
+        ".agents/skills/caveman-compress/scripts/benchmark.py",
+        ".agents/skills/caveman-compress/scripts/validate.py"
+      ],
+      "confidence": "EXTRACTED",
+      "relation": "calls",
+      "why": "bridges separate communities"
+    },
+    {
+      "source": "_compress_file_locked()",
+      "target": "validate()",
+      "source_files": [
+        ".agents/skills/caveman-compress/scripts/compress.py",
+        ".agents/skills/caveman-compress/scripts/validate.py"
+      ],
+      "confidence": "EXTRACTED",
+      "relation": "calls",
+      "why": "bridges separate communities"
+    },
+    {
+      "source": "main()",
+      "target": "backup_dir_for()",
+      "source_files": [
+        ".agents/skills/caveman-compress/scripts/cli.py",
+        ".agents/skills/caveman-compress/scripts/compress.py"
+      ],
+      "confidence": "EXTRACTED",
+      "relation": "calls",
+      "why": "bridges separate communities"
+    },
+    {
+      "source": "main()",
+      "target": "compress_file()",
+      "source_files": [
+        ".agents/skills/caveman-compress/scripts/cli.py",
+        ".agents/skills/caveman-compress/scripts/compress.py"
+      ],
+      "confidence": "EXTRACTED",
+      "relation": "calls",
+      "why": "bridges separate communities"
+    },
+    {
+      "source": "_compress_file_locked()",
+      "target": "should_compress()",
+      "source_files": [
+        ".agents/skills/caveman-compress/scripts/compress.py",
+        ".agents/skills/caveman-compress/scripts/detect.py"
+      ],
+      "confidence": "EXTRACTED",
+      "relation": "calls",
+      "why": "bridges separate communities"
+    }
+  ],
+  "questions": [
+    {
+      "type": "bridge_node",
+      "question": "Why does `validate()` connect `Community 0` to `Community 9`, `Community 2`?",
+      "why": "High betweenness centrality (0.086) - this node is a cross-community bridge."
+    },
+    {
+      "type": "bridge_node",
+      "question": "Why does `_compress_file_locked()` connect `Community 2` to `Community 0`, `Community 1`, `Community 10`, `Community 11`, `Community 12`, `Community 13`?",
+      "why": "High betweenness centrality (0.044) - this node is a cross-community bridge."
+    },
+    {
+      "type": "isolated_nodes",
+      "question": "What connects `md`, `skillFile`, `skill` to the rest of the system?",
+      "why": "20 weakly-connected nodes found - possible documentation gaps or missing edges."
+    },
+    {
+      "type": "low_cohesion",
+      "question": "Should `Community 0` be split into smaller, more focused modules?",
+      "why": "Cohesion score 0.11904761904761904 - nodes in this community are weakly interconnected."
+    }
+  ]
+}

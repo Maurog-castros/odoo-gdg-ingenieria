@@ -1,7 +1,7 @@
 # Graph Report - proyecto-odoo-dgd-ingenieria  (2026-09-11)
 
 ## Corpus Check
-- 80 files · ~41,228 words
+- 80 files · ~40,942 words
 - Verdict: corpus is large enough that graph structure adds value.
 
 ## Summary

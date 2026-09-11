@@ -108,9 +108,9 @@
     "semantic_hash": "3e04085c1eafd5ce2c6cf21de5df7aa2"
   },
   "script/demo_proyecto_gdg.py": {
-    "mtime": 1789152507.0309522,
-    "seen": 1789152605.948195,
-    "ast_hash": "af38d6f23867b6fc1e9f451fdb4bf01d",
+    "mtime": 1789151132.1490629,
+    "seen": 1789151228.826772,
+    "ast_hash": "638fe828481bb605d8223e71a46f9eae",
     "semantic_hash": ""
   },
   ".agents/skills/cavecrew/README.md": {
@@ -432,9 +432,9 @@
     "semantic_hash": ""
   },
   "demos/06-proyectos/demo-puesta-servicio-subestacion/README.md": {
-    "mtime": 1789152351.4105418,
-    "seen": 1789152605.948428,
-    "ast_hash": "d943d1ce71eb4ebab726400d827f362b",
+    "mtime": 1789150959.6824586,
+    "seen": 1789151228.826953,
+    "ast_hash": "fdf4aef7e31f95087cedce1c2fce4c60",
     "semantic_hash": ""
   },
   "demos/07-integracion/README.md": {

@@ -40,7 +40,7 @@
       "file_type": "code",
       "norm_label": "odoo",
       "source_file": "script/demo_proyecto_gdg.py",
-      "source_location": "L78"
+      "source_location": "L76"
     },
     {
       "id": "agents_skills_caveman_compress_scripts_compress_backup_dir_for",
@@ -964,7 +964,7 @@
       "file_type": "code",
       "norm_label": "add_chatter()",
       "source_file": "script/demo_proyecto_gdg.py",
-      "source_location": "L168"
+      "source_location": "L166"
     },
     {
       "id": "script_demo_proyecto_gdg_database_from_url",
@@ -976,7 +976,7 @@
       "file_type": "code",
       "norm_label": "database_from_url()",
       "source_file": "script/demo_proyecto_gdg.py",
-      "source_location": "L142"
+      "source_location": "L140"
     },
     {
       "id": "script_demo_proyecto_gdg_day",
@@ -988,7 +988,7 @@
       "file_type": "code",
       "norm_label": "day()",
       "source_file": "script/demo_proyecto_gdg.py",
-      "source_location": "L150"
+      "source_location": "L148"
     },
     {
       "id": "script_demo_proyecto_gdg_deadline",
@@ -1000,7 +1000,7 @@
       "file_type": "code",
       "norm_label": "deadline()",
       "source_file": "script/demo_proyecto_gdg.py",
-      "source_location": "L154"
+      "source_location": "L152"
     },
     {
       "id": "script_demo_proyecto_gdg_load_env",
@@ -1012,7 +1012,7 @@
       "file_type": "code",
       "norm_label": "load_env()",
       "source_file": "script/demo_proyecto_gdg.py",
-      "source_location": "L132"
+      "source_location": "L130"
     },
     {
       "id": "script_demo_proyecto_gdg_main",
@@ -1024,7 +1024,7 @@
       "file_type": "code",
       "norm_label": "main()",
       "source_file": "script/demo_proyecto_gdg.py",
-      "source_location": "L181"
+      "source_location": "L179"
     },
     {
       "id": "script_demo_proyecto_gdg_odoo_call",
@@ -1036,7 +1036,7 @@
       "file_type": "code",
       "norm_label": ".call()",
       "source_file": "script/demo_proyecto_gdg.py",
-      "source_location": "L85"
+      "source_location": "L83"
     },
     {
       "id": "script_demo_proyecto_gdg_odoo_clean",
@@ -1048,7 +1048,7 @@
       "file_type": "code",
       "norm_label": ".clean()",
       "source_file": "script/demo_proyecto_gdg.py",
-      "source_location": "L103"
+      "source_location": "L101"
     },
     {
       "id": "script_demo_proyecto_gdg_odoo_fields",
@@ -1060,7 +1060,7 @@
       "file_type": "code",
       "norm_label": ".fields()",
       "source_file": "script/demo_proyecto_gdg.py",
-      "source_location": "L98"
+      "source_location": "L96"
     },
     {
       "id": "script_demo_proyecto_gdg_odoo_find",
@@ -1072,7 +1072,7 @@
       "file_type": "code",
       "norm_label": ".find()",
       "source_file": "script/demo_proyecto_gdg.py",
-      "source_location": "L107"
+      "source_location": "L105"
     },
     {
       "id": "script_demo_proyecto_gdg_odoo_init",
@@ -1084,7 +1084,7 @@
       "file_type": "code",
       "norm_label": ".__init__()",
       "source_file": "script/demo_proyecto_gdg.py",
-      "source_location": "L79"
+      "source_location": "L77"
     },
     {
       "id": "script_demo_proyecto_gdg_odoo_models",
@@ -1096,7 +1096,7 @@
       "file_type": "code",
       "norm_label": ".models()",
       "source_file": "script/demo_proyecto_gdg.py",
-      "source_location": "L89"
+      "source_location": "L87"
     },
     {
       "id": "script_demo_proyecto_gdg_odoo_omit",
@@ -1108,7 +1108,7 @@
       "file_type": "code",
       "norm_label": ".omit()",
       "source_file": "script/demo_proyecto_gdg.py",
-      "source_location": "L127"
+      "source_location": "L125"
     },
     {
       "id": "script_demo_proyecto_gdg_odoo_supports",
@@ -1120,7 +1120,7 @@
       "file_type": "code",
       "norm_label": ".supports()",
       "source_file": "script/demo_proyecto_gdg.py",
-      "source_location": "L95"
+      "source_location": "L93"
     },
     {
       "id": "script_demo_proyecto_gdg_odoo_upsert",
@@ -1132,7 +1132,7 @@
       "file_type": "code",
       "norm_label": ".upsert()",
       "source_file": "script/demo_proyecto_gdg.py",
-      "source_location": "L111"
+      "source_location": "L109"
     },
     {
       "id": "script_demo_proyecto_gdg_user_ids",
@@ -1144,7 +1144,7 @@
       "file_type": "code",
       "norm_label": "user_ids()",
       "source_file": "script/demo_proyecto_gdg.py",
-      "source_location": "L159"
+      "source_location": "L157"
     },
     {
       "id": "agents_skills_caveman_compress_scripts_cli_main",
@@ -3637,7 +3637,7 @@
       "node_kind": "heading",
       "norm_label": "guion de demostracion con efecto wow",
       "source_file": "demos/06-proyectos/demo-puesta-servicio-subestacion/README.md",
-      "source_location": "L52"
+      "source_location": "L51"
     },
     {
       "id": "demos_06_proyectos_demo_puesta_servicio_subestacion_readme_lista_de_control_antes_de_recibir_al_cliente",
@@ -3649,7 +3649,7 @@
       "node_kind": "heading",
       "norm_label": "lista de control antes de recibir al cliente",
       "source_file": "demos/06-proyectos/demo-puesta-servicio-subestacion/README.md",
-      "source_location": "L66"
+      "source_location": "L64"
     },
     {
       "id": "demos_06_proyectos_demo_puesta_servicio_subestacion_readme_objetivo",
@@ -3673,7 +3673,7 @@
       "node_kind": "heading",
       "norm_label": "preparar la demo automaticamente",
       "source_file": "demos/06-proyectos/demo-puesta-servicio-subestacion/README.md",
-      "source_location": "L22"
+      "source_location": "L21"
     },
     {
       "id": "demos_06_proyectos_demo_puesta_servicio_subestacion_readme_relaci\u00f3n_con_el_negocio",
@@ -3685,7 +3685,7 @@
       "node_kind": "heading",
       "norm_label": "relacion con el negocio",
       "source_file": "demos/06-proyectos/demo-puesta-servicio-subestacion/README.md",
-      "source_location": "L74"
+      "source_location": "L72"
     },
     {
       "id": "demos_06_proyectos_demo_puesta_servicio_subestacion_readme_resultado_esperado",
@@ -7225,7 +7225,7 @@
       "confidence_score": 1.0,
       "context": "call",
       "source_file": "script/demo_proyecto_gdg.py",
-      "source_location": "L192",
+      "source_location": "L190",
       "weight": 1.0
     },
     {
@@ -7237,7 +7237,7 @@
       "confidence_score": 1.0,
       "context": "call",
       "source_file": "script/demo_proyecto_gdg.py",
-      "source_location": "L197",
+      "source_location": "L195",
       "weight": 1.0
     },
     {
@@ -7249,7 +7249,7 @@
       "confidence_score": 1.0,
       "context": "call",
       "source_file": "script/demo_proyecto_gdg.py",
-      "source_location": "L203",
+      "source_location": "L201",
       "weight": 1.0
     },
     {
@@ -7261,7 +7261,7 @@
       "confidence_score": 1.0,
       "context": "call",
       "source_file": "script/demo_proyecto_gdg.py",
-      "source_location": "L216",
+      "source_location": "L214",
       "weight": 1.0
     },
     {
@@ -7273,7 +7273,7 @@
       "confidence_score": 1.0,
       "context": "call",
       "source_file": "script/demo_proyecto_gdg.py",
-      "source_location": "L223",
+      "source_location": "L221",
       "weight": 1.0
     },
     {
@@ -7285,7 +7285,7 @@
       "confidence_score": 1.0,
       "context": "call",
       "source_file": "script/demo_proyecto_gdg.py",
-      "source_location": "L264",
+      "source_location": "L261",
       "weight": 1.0
     },
     {
@@ -7297,7 +7297,7 @@
       "confidence_score": 1.0,
       "context": "call",
       "source_file": "script/demo_proyecto_gdg.py",
-      "source_location": "L312",
+      "source_location": "L309",
       "weight": 1.0
     },
     {
@@ -7309,7 +7309,7 @@
       "confidence_score": 1.0,
       "context": "call",
       "source_file": "script/demo_proyecto_gdg.py",
-      "source_location": "L104",
+      "source_location": "L102",
       "weight": 1.0
     },
     {
@@ -7321,7 +7321,7 @@
       "confidence_score": 1.0,
       "context": "call",
       "source_file": "script/demo_proyecto_gdg.py",
-      "source_location": "L100",
+      "source_location": "L98",
       "weight": 1.0
     },
     {
@@ -7333,7 +7333,7 @@
       "confidence_score": 1.0,
       "context": "call",
       "source_file": "script/demo_proyecto_gdg.py",
-      "source_location": "L108",
+      "source_location": "L106",
       "weight": 1.0
     },
     {
@@ -7345,7 +7345,7 @@
       "confidence_score": 1.0,
       "context": "call",
       "source_file": "script/demo_proyecto_gdg.py",
-      "source_location": "L91",
+      "source_location": "L89",
       "weight": 1.0
     },
     {
@@ -7357,7 +7357,7 @@
       "confidence_score": 1.0,
       "context": "call",
       "source_file": "script/demo_proyecto_gdg.py",
-      "source_location": "L96",
+      "source_location": "L94",
       "weight": 1.0
     },
     {
@@ -7369,7 +7369,7 @@
       "confidence_score": 1.0,
       "context": "call",
       "source_file": "script/demo_proyecto_gdg.py",
-      "source_location": "L112",
+      "source_location": "L110",
       "weight": 1.0
     },
     {
@@ -7381,7 +7381,7 @@
       "confidence_score": 1.0,
       "context": "call",
       "source_file": "script/demo_proyecto_gdg.py",
-      "source_location": "L113",
+      "source_location": "L111",
       "weight": 1.0
     },
     {
@@ -7393,7 +7393,7 @@
       "confidence_score": 1.0,
       "context": "call",
       "source_file": "script/demo_proyecto_gdg.py",
-      "source_location": "L117",
+      "source_location": "L115",
       "weight": 1.0
     },
     {
@@ -11197,7 +11197,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "demos/06-proyectos/demo-puesta-servicio-subestacion/README.md",
-      "source_location": "L22",
+      "source_location": "L21",
       "weight": 1.0
     },
     {
@@ -11219,7 +11219,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "demos/06-proyectos/demo-puesta-servicio-subestacion/README.md",
-      "source_location": "L52",
+      "source_location": "L51",
       "weight": 1.0
     },
     {
@@ -11230,7 +11230,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "demos/06-proyectos/demo-puesta-servicio-subestacion/README.md",
-      "source_location": "L66",
+      "source_location": "L64",
       "weight": 1.0
     },
     {
@@ -11241,7 +11241,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "demos/06-proyectos/demo-puesta-servicio-subestacion/README.md",
-      "source_location": "L74",
+      "source_location": "L72",
       "weight": 1.0
     },
     {
@@ -11901,7 +11901,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "script/demo_proyecto_gdg.py",
-      "source_location": "L132",
+      "source_location": "L130",
       "weight": 1.0
     },
     {
@@ -11912,7 +11912,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "script/demo_proyecto_gdg.py",
-      "source_location": "L142",
+      "source_location": "L140",
       "weight": 1.0
     },
     {
@@ -11923,7 +11923,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "script/demo_proyecto_gdg.py",
-      "source_location": "L150",
+      "source_location": "L148",
       "weight": 1.0
     },
     {
@@ -11934,7 +11934,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "script/demo_proyecto_gdg.py",
-      "source_location": "L154",
+      "source_location": "L152",
       "weight": 1.0
     },
     {
@@ -11945,7 +11945,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "script/demo_proyecto_gdg.py",
-      "source_location": "L159",
+      "source_location": "L157",
       "weight": 1.0
     },
     {
@@ -11956,7 +11956,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "script/demo_proyecto_gdg.py",
-      "source_location": "L168",
+      "source_location": "L166",
       "weight": 1.0
     },
     {
@@ -11967,7 +11967,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "script/demo_proyecto_gdg.py",
-      "source_location": "L181",
+      "source_location": "L179",
       "weight": 1.0
     },
     {
@@ -11978,7 +11978,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "script/demo_proyecto_gdg.py",
-      "source_location": "L78",
+      "source_location": "L76",
       "weight": 1.0
     },
     {
@@ -12154,7 +12154,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "script/demo_proyecto_gdg.py",
-      "source_location": "L103",
+      "source_location": "L101",
       "weight": 1.0
     },
     {
@@ -12165,7 +12165,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "script/demo_proyecto_gdg.py",
-      "source_location": "L107",
+      "source_location": "L105",
       "weight": 1.0
     },
     {
@@ -12176,7 +12176,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "script/demo_proyecto_gdg.py",
-      "source_location": "L111",
+      "source_location": "L109",
       "weight": 1.0
     },
     {
@@ -12187,7 +12187,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "script/demo_proyecto_gdg.py",
-      "source_location": "L127",
+      "source_location": "L125",
       "weight": 1.0
     },
     {
@@ -12198,7 +12198,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "script/demo_proyecto_gdg.py",
-      "source_location": "L79",
+      "source_location": "L77",
       "weight": 1.0
     },
     {
@@ -12209,7 +12209,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "script/demo_proyecto_gdg.py",
-      "source_location": "L85",
+      "source_location": "L83",
       "weight": 1.0
     },
     {
@@ -12220,7 +12220,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "script/demo_proyecto_gdg.py",
-      "source_location": "L89",
+      "source_location": "L87",
       "weight": 1.0
     },
     {
@@ -12231,7 +12231,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "script/demo_proyecto_gdg.py",
-      "source_location": "L95",
+      "source_location": "L93",
       "weight": 1.0
     },
     {
@@ -12242,7 +12242,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "script/demo_proyecto_gdg.py",
-      "source_location": "L98",
+      "source_location": "L96",
       "weight": 1.0
     },
     {
