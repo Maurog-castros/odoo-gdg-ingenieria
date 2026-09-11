@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# Odoo
+*.log
+filestore/
+
+# macOS and editors
+.DS_Store
+.vscode/
