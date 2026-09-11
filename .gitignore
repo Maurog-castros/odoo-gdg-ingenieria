@@ -12,3 +12,4 @@ filestore/
 # macOS and editors
 .DS_Store
 .vscode/
+script/creacion-usuarios/.env
