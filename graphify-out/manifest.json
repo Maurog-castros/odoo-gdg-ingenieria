@@ -396,15 +396,15 @@
     "semantic_hash": ""
   },
   "demos/01-crm/README.md": {
-    "mtime": 1789146633.0781481,
-    "seen": 1789147449.180521,
-    "ast_hash": "36ba0c0ab203e50483833775a525c3a0",
+    "mtime": 1789156125.7745113,
+    "seen": 1789156253.4313889,
+    "ast_hash": "215336419a8097d3db7c7b027d2a08c2",
     "semantic_hash": ""
   },
   "demos/02-ventas/README.md": {
-    "mtime": 1789146633.078285,
-    "seen": 1789147449.180524,
-    "ast_hash": "8b6606437a9351c33b0407a8f266f167",
+    "mtime": 1789156126.193345,
+    "seen": 1789156253.431398,
+    "ast_hash": "342319ae9c69fca0993644783c843771",
     "semantic_hash": ""
   },
   "demos/03-compras/README.md": {
@@ -414,15 +414,15 @@
     "semantic_hash": ""
   },
   "demos/04-inventario/README.md": {
-    "mtime": 1789146633.078213,
-    "seen": 1789147449.1805282,
-    "ast_hash": "3b2da924864b4806083f9c4287a0f2f2",
+    "mtime": 1789156126.7479913,
+    "seen": 1789156253.4314182,
+    "ast_hash": "32cc89ae6df641377536dde8910189ba",
     "semantic_hash": ""
   },
   "demos/05-contabilidad-facturacion/README.md": {
-    "mtime": 1789146633.0783417,
-    "seen": 1789147449.180531,
-    "ast_hash": "4f6a6674e274d1edfca5782da05e6ad7",
+    "mtime": 1789156127.0432913,
+    "seen": 1789156253.4314282,
+    "ast_hash": "6f574c575ad4385e8fffde38c5ca1435",
     "semantic_hash": ""
   },
   "demos/06-proyectos/README.md": {
@@ -549,6 +549,42 @@
     "mtime": 1789154562.7574618,
     "seen": 1789154755.152069,
     "ast_hash": "51ae9d7e00d278ddc331f76b3303f72a",
+    "semantic_hash": ""
+  },
+  "script/demo_ciclo_comercial_operacional.py": {
+    "mtime": 1789156186.3693995,
+    "seen": 1789156253.431073,
+    "ast_hash": "e355c1032fa30cd761716c40ac67ef51",
+    "semantic_hash": ""
+  },
+  "script/inspect_business_capabilities.py": {
+    "mtime": 1789155576.913721,
+    "seen": 1789156253.431102,
+    "ast_hash": "a429773f14c48958d31063fd8445cdd9",
+    "semantic_hash": ""
+  },
+  "demos/01-crm/DEMO_FUNCIONAL_CRM.md": {
+    "mtime": 1789156126.0040622,
+    "seen": 1789156253.431384,
+    "ast_hash": "bf49a52aa41d36c20319d2e1fa4bf984",
+    "semantic_hash": ""
+  },
+  "demos/02-ventas/DEMO_FUNCIONAL_VENTAS.md": {
+    "mtime": 1789156126.5685909,
+    "seen": 1789156253.431394,
+    "ast_hash": "7445b722928b30ac14e6092827b7dc5e",
+    "semantic_hash": ""
+  },
+  "demos/04-inventario/DEMO_FUNCIONAL_INVENTARIO.md": {
+    "mtime": 1789156126.8931801,
+    "seen": 1789156253.431413,
+    "ast_hash": "8869d1325d86b75f39a22aba31addb08",
+    "semantic_hash": ""
+  },
+  "demos/05-contabilidad-facturacion/DEMO_FUNCIONAL_CONTABILIDAD_FACTURACION.md": {
+    "mtime": 1789156127.2477858,
+    "seen": 1789156253.431423,
+    "ast_hash": "36de29ce919ca5fff30f3a98121badd9",
     "semantic_hash": ""
   }
 }

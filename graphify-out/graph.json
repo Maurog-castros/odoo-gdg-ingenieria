@@ -43,6 +43,30 @@
       "source_location": "L78"
     },
     {
+      "id": "agents_skills_caveman_compress_scripts_cli_main",
+      "label": "main()",
+      "_callable": true,
+      "_origin": "ast",
+      "community": 0,
+      "community_name": "compress.py",
+      "file_type": "code",
+      "norm_label": "main()",
+      "source_file": ".agents/skills/caveman-compress/scripts/cli.py",
+      "source_location": "L32"
+    },
+    {
+      "id": "agents_skills_caveman_compress_scripts_cli_print_usage",
+      "label": "print_usage()",
+      "_callable": true,
+      "_origin": "ast",
+      "community": 0,
+      "community_name": "compress.py",
+      "file_type": "code",
+      "norm_label": "print_usage()",
+      "source_file": ".agents/skills/caveman-compress/scripts/cli.py",
+      "source_location": "L28"
+    },
+    {
       "id": "agents_skills_caveman_compress_scripts_compress_backup_dir_for",
       "label": "backup_dir_for()",
       "_callable": true,
@@ -305,6 +329,66 @@
       "norm_label": "write_text_atomic()",
       "source_file": ".agents/skills/caveman-compress/scripts/compress.py",
       "source_location": "L254"
+    },
+    {
+      "id": "agents_skills_caveman_compress_scripts_detect_detect_file_type",
+      "label": "detect_file_type()",
+      "_callable": true,
+      "_origin": "ast",
+      "community": 0,
+      "community_name": "compress.py",
+      "file_type": "code",
+      "norm_label": "detect_file_type()",
+      "source_file": ".agents/skills/caveman-compress/scripts/detect.py",
+      "source_location": "L77"
+    },
+    {
+      "id": "agents_skills_caveman_compress_scripts_detect_is_code_line",
+      "label": "_is_code_line()",
+      "_callable": true,
+      "_origin": "ast",
+      "community": 0,
+      "community_name": "compress.py",
+      "file_type": "code",
+      "norm_label": "_is_code_line()",
+      "source_file": ".agents/skills/caveman-compress/scripts/detect.py",
+      "source_location": "L47"
+    },
+    {
+      "id": "agents_skills_caveman_compress_scripts_detect_is_json_content",
+      "label": "_is_json_content()",
+      "_callable": true,
+      "_origin": "ast",
+      "community": 0,
+      "community_name": "compress.py",
+      "file_type": "code",
+      "norm_label": "_is_json_content()",
+      "source_file": ".agents/skills/caveman-compress/scripts/detect.py",
+      "source_location": "L52"
+    },
+    {
+      "id": "agents_skills_caveman_compress_scripts_detect_is_yaml_content",
+      "label": "_is_yaml_content()",
+      "_callable": true,
+      "_origin": "ast",
+      "community": 0,
+      "community_name": "compress.py",
+      "file_type": "code",
+      "norm_label": "_is_yaml_content()",
+      "source_file": ".agents/skills/caveman-compress/scripts/detect.py",
+      "source_location": "L61"
+    },
+    {
+      "id": "agents_skills_caveman_compress_scripts_detect_should_compress",
+      "label": "should_compress()",
+      "_callable": true,
+      "_origin": "ast",
+      "community": 0,
+      "community_name": "compress.py",
+      "file_type": "code",
+      "norm_label": "should_compress()",
+      "source_file": ".agents/skills/caveman-compress/scripts/detect.py",
+      "source_location": "L123"
     },
     {
       "id": "agents_skills_caveman_compress_scripts_benchmark_benchmark_pair",
@@ -955,6 +1039,114 @@
       "source_location": "L10"
     },
     {
+      "id": "script_demo_ciclo_comercial_operacional_create_crm",
+      "label": "create_crm()",
+      "_callable": true,
+      "_origin": "ast",
+      "community": 5,
+      "community_name": "Odoo",
+      "file_type": "code",
+      "norm_label": "create_crm()",
+      "source_file": "script/demo_ciclo_comercial_operacional.py",
+      "source_location": "L84"
+    },
+    {
+      "id": "script_demo_ciclo_comercial_operacional_create_inventory",
+      "label": "create_inventory()",
+      "_callable": true,
+      "_origin": "ast",
+      "community": 5,
+      "community_name": "Odoo",
+      "file_type": "code",
+      "norm_label": "create_inventory()",
+      "source_file": "script/demo_ciclo_comercial_operacional.py",
+      "source_location": "L175"
+    },
+    {
+      "id": "script_demo_ciclo_comercial_operacional_dt",
+      "label": "dt()",
+      "_callable": true,
+      "_origin": "ast",
+      "community": 5,
+      "community_name": "Odoo",
+      "file_type": "code",
+      "norm_label": "dt()",
+      "source_file": "script/demo_ciclo_comercial_operacional.py",
+      "source_location": "L61"
+    },
+    {
+      "id": "script_demo_ciclo_comercial_operacional_ensure_invoice",
+      "label": "ensure_invoice()",
+      "_callable": true,
+      "_origin": "ast",
+      "community": 5,
+      "community_name": "Odoo",
+      "file_type": "code",
+      "norm_label": "ensure_invoice()",
+      "source_file": "script/demo_ciclo_comercial_operacional.py",
+      "source_location": "L193"
+    },
+    {
+      "id": "script_demo_ciclo_comercial_operacional_ensure_partner",
+      "label": "ensure_partner()",
+      "_callable": true,
+      "_origin": "ast",
+      "community": 5,
+      "community_name": "Odoo",
+      "file_type": "code",
+      "norm_label": "ensure_partner()",
+      "source_file": "script/demo_ciclo_comercial_operacional.py",
+      "source_location": "L65"
+    },
+    {
+      "id": "script_demo_ciclo_comercial_operacional_ensure_picking",
+      "label": "ensure_picking()",
+      "_callable": true,
+      "_origin": "ast",
+      "community": 5,
+      "community_name": "Odoo",
+      "file_type": "code",
+      "norm_label": "ensure_picking()",
+      "source_file": "script/demo_ciclo_comercial_operacional.py",
+      "source_location": "L135"
+    },
+    {
+      "id": "script_demo_ciclo_comercial_operacional_ensure_product",
+      "label": "ensure_product()",
+      "_callable": true,
+      "_origin": "ast",
+      "community": 5,
+      "community_name": "Odoo",
+      "file_type": "code",
+      "norm_label": "ensure_product()",
+      "source_file": "script/demo_ciclo_comercial_operacional.py",
+      "source_location": "L74"
+    },
+    {
+      "id": "script_demo_ciclo_comercial_operacional_ensure_sale_order",
+      "label": "ensure_sale_order()",
+      "_callable": true,
+      "_origin": "ast",
+      "community": 5,
+      "community_name": "Odoo",
+      "file_type": "code",
+      "norm_label": "ensure_sale_order()",
+      "source_file": "script/demo_ciclo_comercial_operacional.py",
+      "source_location": "L106"
+    },
+    {
+      "id": "script_demo_ciclo_comercial_operacional_main",
+      "label": "main()",
+      "_callable": true,
+      "_origin": "ast",
+      "community": 5,
+      "community_name": "Odoo",
+      "file_type": "code",
+      "norm_label": "main()",
+      "source_file": "script/demo_ciclo_comercial_operacional.py",
+      "source_location": "L227"
+    },
+    {
       "id": "script_demo_compras_integral_dt",
       "label": "dt()",
       "_callable": true,
@@ -1267,88 +1459,28 @@
       "source_location": "L159"
     },
     {
-      "id": "agents_skills_caveman_compress_scripts_cli_main",
+      "id": "script_inspect_business_capabilities_main",
       "label": "main()",
       "_callable": true,
       "_origin": "ast",
-      "community": 6,
-      "community_name": "cli.py",
+      "community": 5,
+      "community_name": "Odoo",
       "file_type": "code",
       "norm_label": "main()",
-      "source_file": ".agents/skills/caveman-compress/scripts/cli.py",
-      "source_location": "L32"
+      "source_file": "script/inspect_business_capabilities.py",
+      "source_location": "L35"
     },
     {
-      "id": "agents_skills_caveman_compress_scripts_cli_print_usage",
-      "label": "print_usage()",
+      "id": "script_inspect_business_capabilities_rpc",
+      "label": "rpc()",
       "_callable": true,
       "_origin": "ast",
-      "community": 6,
-      "community_name": "cli.py",
+      "community": 5,
+      "community_name": "Odoo",
       "file_type": "code",
-      "norm_label": "print_usage()",
-      "source_file": ".agents/skills/caveman-compress/scripts/cli.py",
-      "source_location": "L28"
-    },
-    {
-      "id": "agents_skills_caveman_compress_scripts_detect_detect_file_type",
-      "label": "detect_file_type()",
-      "_callable": true,
-      "_origin": "ast",
-      "community": 6,
-      "community_name": "cli.py",
-      "file_type": "code",
-      "norm_label": "detect_file_type()",
-      "source_file": ".agents/skills/caveman-compress/scripts/detect.py",
-      "source_location": "L77"
-    },
-    {
-      "id": "agents_skills_caveman_compress_scripts_detect_is_code_line",
-      "label": "_is_code_line()",
-      "_callable": true,
-      "_origin": "ast",
-      "community": 6,
-      "community_name": "cli.py",
-      "file_type": "code",
-      "norm_label": "_is_code_line()",
-      "source_file": ".agents/skills/caveman-compress/scripts/detect.py",
-      "source_location": "L47"
-    },
-    {
-      "id": "agents_skills_caveman_compress_scripts_detect_is_json_content",
-      "label": "_is_json_content()",
-      "_callable": true,
-      "_origin": "ast",
-      "community": 6,
-      "community_name": "cli.py",
-      "file_type": "code",
-      "norm_label": "_is_json_content()",
-      "source_file": ".agents/skills/caveman-compress/scripts/detect.py",
-      "source_location": "L52"
-    },
-    {
-      "id": "agents_skills_caveman_compress_scripts_detect_is_yaml_content",
-      "label": "_is_yaml_content()",
-      "_callable": true,
-      "_origin": "ast",
-      "community": 6,
-      "community_name": "cli.py",
-      "file_type": "code",
-      "norm_label": "_is_yaml_content()",
-      "source_file": ".agents/skills/caveman-compress/scripts/detect.py",
-      "source_location": "L61"
-    },
-    {
-      "id": "agents_skills_caveman_compress_scripts_detect_should_compress",
-      "label": "should_compress()",
-      "_callable": true,
-      "_origin": "ast",
-      "community": 6,
-      "community_name": "cli.py",
-      "file_type": "code",
-      "norm_label": "should_compress()",
-      "source_file": ".agents/skills/caveman-compress/scripts/detect.py",
-      "source_location": "L123"
+      "norm_label": "rpc()",
+      "source_file": "script/inspect_business_capabilities.py",
+      "source_location": "L30"
     },
     {
       "id": "script_inspect_purchase_capabilities_database_from_url",
@@ -1399,6 +1531,17 @@
       "source_location": "L35"
     },
     {
+      "id": "agents_skills_caveman_compress_scripts_cli",
+      "label": "cli.py",
+      "_origin": "ast",
+      "community": 0,
+      "community_name": "compress.py",
+      "file_type": "code",
+      "norm_label": "cli.py",
+      "source_file": ".agents/skills/caveman-compress/scripts/cli.py",
+      "source_location": "L1"
+    },
+    {
       "id": "agents_skills_caveman_compress_scripts_compress",
       "label": "compress.py",
       "_origin": "ast",
@@ -1421,6 +1564,39 @@
       "source_location": ""
     },
     {
+      "id": "agents_skills_caveman_compress_scripts_detect",
+      "label": "detect.py",
+      "_origin": "ast",
+      "community": 0,
+      "community_name": "compress.py",
+      "file_type": "code",
+      "norm_label": "detect.py",
+      "source_file": ".agents/skills/caveman-compress/scripts/detect.py",
+      "source_location": "L1"
+    },
+    {
+      "id": "agents_skills_caveman_compress_scripts_detect_py_path",
+      "label": "Path",
+      "_origin": "ast",
+      "community": 0,
+      "community_name": "compress.py",
+      "file_type": "code",
+      "norm_label": "path",
+      "source_file": "",
+      "source_location": ""
+    },
+    {
+      "id": "agents_skills_caveman_compress_scripts_main",
+      "label": "__main__.py",
+      "_origin": "ast",
+      "community": 0,
+      "community_name": "compress.py",
+      "file_type": "code",
+      "norm_label": "__main__.py",
+      "source_file": ".agents/skills/caveman-compress/scripts/__main__.py",
+      "source_location": "L1"
+    },
+    {
       "id": "timeouterror",
       "label": "TimeoutError",
       "_origin": "ast",
@@ -1430,6 +1606,17 @@
       "norm_label": "timeouterror",
       "source_file": "",
       "source_location": ""
+    },
+    {
+      "id": "agents_skills_caveman_compress_scripts_cli_rationale_2",
+      "label": "Caveman Compress CLI Usage: caveman <filepath>",
+      "_origin": "ast",
+      "community": 0,
+      "community_name": "compress.py",
+      "file_type": "rationale",
+      "norm_label": "caveman compress cli usage: caveman <filepath>",
+      "source_file": ".agents/skills/caveman-compress/scripts/cli.py",
+      "source_location": "L2"
     },
     {
       "id": "agents_skills_caveman_compress_scripts_compress_rationale_105",
@@ -1661,6 +1848,72 @@
       "norm_label": "shared platform-aware base dir for caveman-compress state (backups, locks) \u2014...",
       "source_file": ".agents/skills/caveman-compress/scripts/compress.py",
       "source_location": "L94"
+    },
+    {
+      "id": "agents_skills_caveman_compress_scripts_detect_rationale_124",
+      "label": "Return True if the file is natural language and should be compressed.",
+      "_origin": "ast",
+      "community": 0,
+      "community_name": "compress.py",
+      "file_type": "rationale",
+      "norm_label": "return true if the file is natural language and should be compressed.",
+      "source_file": ".agents/skills/caveman-compress/scripts/detect.py",
+      "source_location": "L124"
+    },
+    {
+      "id": "agents_skills_caveman_compress_scripts_detect_rationale_2",
+      "label": "Detect whether a file is natural language (compressible) or code/config (skip).",
+      "_origin": "ast",
+      "community": 0,
+      "community_name": "compress.py",
+      "file_type": "rationale",
+      "norm_label": "detect whether a file is natural language (compressible) or code/config (skip).",
+      "source_file": ".agents/skills/caveman-compress/scripts/detect.py",
+      "source_location": "L2"
+    },
+    {
+      "id": "agents_skills_caveman_compress_scripts_detect_rationale_48",
+      "label": "Check if a line looks like code.",
+      "_origin": "ast",
+      "community": 0,
+      "community_name": "compress.py",
+      "file_type": "rationale",
+      "norm_label": "check if a line looks like code.",
+      "source_file": ".agents/skills/caveman-compress/scripts/detect.py",
+      "source_location": "L48"
+    },
+    {
+      "id": "agents_skills_caveman_compress_scripts_detect_rationale_53",
+      "label": "Check if content is valid JSON.",
+      "_origin": "ast",
+      "community": 0,
+      "community_name": "compress.py",
+      "file_type": "rationale",
+      "norm_label": "check if content is valid json.",
+      "source_file": ".agents/skills/caveman-compress/scripts/detect.py",
+      "source_location": "L53"
+    },
+    {
+      "id": "agents_skills_caveman_compress_scripts_detect_rationale_62",
+      "label": "Heuristic: check if content looks like YAML.",
+      "_origin": "ast",
+      "community": 0,
+      "community_name": "compress.py",
+      "file_type": "rationale",
+      "norm_label": "heuristic: check if content looks like yaml.",
+      "source_file": ".agents/skills/caveman-compress/scripts/detect.py",
+      "source_location": "L62"
+    },
+    {
+      "id": "agents_skills_caveman_compress_scripts_detect_rationale_78",
+      "label": "Classify a file as 'natural_language', 'code', 'config', or 'unknown'. Returns:\u2026",
+      "_origin": "ast",
+      "community": 0,
+      "community_name": "compress.py",
+      "file_type": "rationale",
+      "norm_label": "classify a file as 'natural_language', 'code', 'config', or 'unknown'. returns:...",
+      "source_file": ".agents/skills/caveman-compress/scripts/detect.py",
+      "source_location": "L78"
     },
     {
       "id": "agents_skills_caveman_compress_scripts_benchmark",
@@ -5420,6 +5673,17 @@
       "source_location": "L6"
     },
     {
+      "id": "script_demo_ciclo_comercial_operacional",
+      "label": "demo_ciclo_comercial_operacional.py",
+      "_origin": "ast",
+      "community": 5,
+      "community_name": "Odoo",
+      "file_type": "code",
+      "norm_label": "demo_ciclo_comercial_operacional.py",
+      "source_file": "script/demo_ciclo_comercial_operacional.py",
+      "source_location": "L1"
+    },
+    {
       "id": "script_demo_compras_integral",
       "label": "demo_compras_integral.py",
       "_origin": "ast",
@@ -5453,6 +5717,28 @@
       "source_location": "L1"
     },
     {
+      "id": "script_inspect_business_capabilities",
+      "label": "inspect_business_capabilities.py",
+      "_origin": "ast",
+      "community": 5,
+      "community_name": "Odoo",
+      "file_type": "code",
+      "norm_label": "inspect_business_capabilities.py",
+      "source_file": "script/inspect_business_capabilities.py",
+      "source_location": "L1"
+    },
+    {
+      "id": "script_demo_ciclo_comercial_operacional_rationale_2",
+      "label": "Load connected CRM, Sales, Inventory and Accounting demo data.",
+      "_origin": "ast",
+      "community": 5,
+      "community_name": "Odoo",
+      "file_type": "rationale",
+      "norm_label": "load connected crm, sales, inventory and accounting demo data.",
+      "source_file": "script/demo_ciclo_comercial_operacional.py",
+      "source_location": "L2"
+    },
+    {
       "id": "script_demo_compras_integral_rationale_2",
       "label": "Create an idempotent, end-to-end Purchase demo for GDG Ingenier\u00eda.",
       "_origin": "ast",
@@ -5483,6 +5769,17 @@
       "file_type": "rationale",
       "norm_label": "create an attractive, idempotent gdg project demo in odoo.",
       "source_file": "script/demo_proyecto_gdg.py",
+      "source_location": "L2"
+    },
+    {
+      "id": "script_inspect_business_capabilities_rationale_2",
+      "label": "Inspect CRM, Sales, Inventory and Accounting fields without modifying Odoo.",
+      "_origin": "ast",
+      "community": 5,
+      "community_name": "Odoo",
+      "file_type": "rationale",
+      "norm_label": "inspect crm, sales, inventory and accounting fields without modifying odoo.",
+      "source_file": "script/inspect_business_capabilities.py",
       "source_location": "L2"
     },
     {
@@ -5622,11 +5919,95 @@
       "source_location": "L1"
     },
     {
+      "id": "demos_01_crm_demo_funcional_crm",
+      "label": "DEMO_FUNCIONAL_CRM.md",
+      "_origin": "ast",
+      "community": 55,
+      "community_name": "Demo funcional de CRM",
+      "file_type": "document",
+      "node_kind": "page",
+      "norm_label": "demo_funcional_crm.md",
+      "source_file": "demos/01-crm/DEMO_FUNCIONAL_CRM.md",
+      "source_location": "L1"
+    },
+    {
+      "id": "demos_01_crm_demo_funcional_crm_datos_preparados",
+      "label": "Datos preparados",
+      "_origin": "ast",
+      "community": 55,
+      "community_name": "Demo funcional de CRM",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "datos preparados",
+      "source_file": "demos/01-crm/DEMO_FUNCIONAL_CRM.md",
+      "source_location": "L7"
+    },
+    {
+      "id": "demos_01_crm_demo_funcional_crm_demo_funcional_de_crm",
+      "label": "Demo funcional de CRM",
+      "_origin": "ast",
+      "community": 55,
+      "community_name": "Demo funcional de CRM",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "demo funcional de crm",
+      "source_file": "demos/01-crm/DEMO_FUNCIONAL_CRM.md",
+      "source_location": "L1"
+    },
+    {
+      "id": "demos_01_crm_demo_funcional_crm_guion_sugerido_10_minutos",
+      "label": "Guion sugerido, 10 minutos",
+      "_origin": "ast",
+      "community": 55,
+      "community_name": "Demo funcional de CRM",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "guion sugerido, 10 minutos",
+      "source_file": "demos/01-crm/DEMO_FUNCIONAL_CRM.md",
+      "source_location": "L20"
+    },
+    {
+      "id": "demos_01_crm_demo_funcional_crm_mensaje_para_el_cliente",
+      "label": "Mensaje para el cliente",
+      "_origin": "ast",
+      "community": 55,
+      "community_name": "Demo funcional de CRM",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "mensaje para el cliente",
+      "source_file": "demos/01-crm/DEMO_FUNCIONAL_CRM.md",
+      "source_location": "L29"
+    },
+    {
+      "id": "demos_01_crm_demo_funcional_crm_objetivo",
+      "label": "Objetivo",
+      "_origin": "ast",
+      "community": 55,
+      "community_name": "Demo funcional de CRM",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "objetivo",
+      "source_file": "demos/01-crm/DEMO_FUNCIONAL_CRM.md",
+      "source_location": "L3"
+    },
+    {
+      "id": "demos_01_crm_demo_funcional_crm_resultado_esperado",
+      "label": "Resultado esperado",
+      "_origin": "ast",
+      "community": 55,
+      "community_name": "Demo funcional de CRM",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "resultado esperado",
+      "source_file": "demos/01-crm/DEMO_FUNCIONAL_CRM.md",
+      "source_location": "L33"
+    },
+    {
       "id": "demos_01_crm_readme",
       "label": "01-crm/README.md",
       "_origin": "ast",
       "community": 55,
-      "community_name": "01-crm/README.md",
+      "community_name": "Demo funcional de CRM",
       "file_type": "document",
       "node_kind": "page",
       "norm_label": "01-crm/readme.md",
@@ -5638,7 +6019,7 @@
       "label": "Demos de CRM",
       "_origin": "ast",
       "community": 55,
-      "community_name": "01-crm/README.md",
+      "community_name": "Demo funcional de CRM",
       "file_type": "document",
       "node_kind": "heading",
       "norm_label": "demos de crm",
@@ -5646,11 +6027,95 @@
       "source_location": "L1"
     },
     {
+      "id": "demos_02_ventas_demo_funcional_ventas",
+      "label": "DEMO_FUNCIONAL_VENTAS.md",
+      "_origin": "ast",
+      "community": 56,
+      "community_name": "Demo funcional de Ventas",
+      "file_type": "document",
+      "node_kind": "page",
+      "norm_label": "demo_funcional_ventas.md",
+      "source_file": "demos/02-ventas/DEMO_FUNCIONAL_VENTAS.md",
+      "source_location": "L1"
+    },
+    {
+      "id": "demos_02_ventas_demo_funcional_ventas_datos_preparados",
+      "label": "Datos preparados",
+      "_origin": "ast",
+      "community": 56,
+      "community_name": "Demo funcional de Ventas",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "datos preparados",
+      "source_file": "demos/02-ventas/DEMO_FUNCIONAL_VENTAS.md",
+      "source_location": "L7"
+    },
+    {
+      "id": "demos_02_ventas_demo_funcional_ventas_demo_funcional_de_ventas",
+      "label": "Demo funcional de Ventas",
+      "_origin": "ast",
+      "community": 56,
+      "community_name": "Demo funcional de Ventas",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "demo funcional de ventas",
+      "source_file": "demos/02-ventas/DEMO_FUNCIONAL_VENTAS.md",
+      "source_location": "L1"
+    },
+    {
+      "id": "demos_02_ventas_demo_funcional_ventas_guion_sugerido_10_minutos",
+      "label": "Guion sugerido, 10 minutos",
+      "_origin": "ast",
+      "community": 56,
+      "community_name": "Demo funcional de Ventas",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "guion sugerido, 10 minutos",
+      "source_file": "demos/02-ventas/DEMO_FUNCIONAL_VENTAS.md",
+      "source_location": "L18"
+    },
+    {
+      "id": "demos_02_ventas_demo_funcional_ventas_mensaje_para_el_cliente",
+      "label": "Mensaje para el cliente",
+      "_origin": "ast",
+      "community": 56,
+      "community_name": "Demo funcional de Ventas",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "mensaje para el cliente",
+      "source_file": "demos/02-ventas/DEMO_FUNCIONAL_VENTAS.md",
+      "source_location": "L27"
+    },
+    {
+      "id": "demos_02_ventas_demo_funcional_ventas_objetivo",
+      "label": "Objetivo",
+      "_origin": "ast",
+      "community": 56,
+      "community_name": "Demo funcional de Ventas",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "objetivo",
+      "source_file": "demos/02-ventas/DEMO_FUNCIONAL_VENTAS.md",
+      "source_location": "L3"
+    },
+    {
+      "id": "demos_02_ventas_demo_funcional_ventas_resultado_esperado",
+      "label": "Resultado esperado",
+      "_origin": "ast",
+      "community": 56,
+      "community_name": "Demo funcional de Ventas",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "resultado esperado",
+      "source_file": "demos/02-ventas/DEMO_FUNCIONAL_VENTAS.md",
+      "source_location": "L31"
+    },
+    {
       "id": "demos_02_ventas_readme",
       "label": "02-ventas/README.md",
       "_origin": "ast",
       "community": 56,
-      "community_name": "02-ventas/README.md",
+      "community_name": "Demo funcional de Ventas",
       "file_type": "document",
       "node_kind": "page",
       "norm_label": "02-ventas/readme.md",
@@ -5662,7 +6127,7 @@
       "label": "Demos de Ventas",
       "_origin": "ast",
       "community": 56,
-      "community_name": "02-ventas/README.md",
+      "community_name": "Demo funcional de Ventas",
       "file_type": "document",
       "node_kind": "heading",
       "norm_label": "demos de ventas",
@@ -5946,11 +6411,95 @@
       "source_location": "L1"
     },
     {
+      "id": "demos_04_inventario_demo_funcional_inventario",
+      "label": "DEMO_FUNCIONAL_INVENTARIO.md",
+      "_origin": "ast",
+      "community": 58,
+      "community_name": "Demo funcional de Inventario",
+      "file_type": "document",
+      "node_kind": "page",
+      "norm_label": "demo_funcional_inventario.md",
+      "source_file": "demos/04-inventario/DEMO_FUNCIONAL_INVENTARIO.md",
+      "source_location": "L1"
+    },
+    {
+      "id": "demos_04_inventario_demo_funcional_inventario_datos_preparados",
+      "label": "Datos preparados",
+      "_origin": "ast",
+      "community": 58,
+      "community_name": "Demo funcional de Inventario",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "datos preparados",
+      "source_file": "demos/04-inventario/DEMO_FUNCIONAL_INVENTARIO.md",
+      "source_location": "L7"
+    },
+    {
+      "id": "demos_04_inventario_demo_funcional_inventario_demo_funcional_de_inventario",
+      "label": "Demo funcional de Inventario",
+      "_origin": "ast",
+      "community": 58,
+      "community_name": "Demo funcional de Inventario",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "demo funcional de inventario",
+      "source_file": "demos/04-inventario/DEMO_FUNCIONAL_INVENTARIO.md",
+      "source_location": "L1"
+    },
+    {
+      "id": "demos_04_inventario_demo_funcional_inventario_guion_sugerido_10_minutos",
+      "label": "Guion sugerido, 10 minutos",
+      "_origin": "ast",
+      "community": 58,
+      "community_name": "Demo funcional de Inventario",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "guion sugerido, 10 minutos",
+      "source_file": "demos/04-inventario/DEMO_FUNCIONAL_INVENTARIO.md",
+      "source_location": "L23"
+    },
+    {
+      "id": "demos_04_inventario_demo_funcional_inventario_mensaje_para_el_cliente",
+      "label": "Mensaje para el cliente",
+      "_origin": "ast",
+      "community": 58,
+      "community_name": "Demo funcional de Inventario",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "mensaje para el cliente",
+      "source_file": "demos/04-inventario/DEMO_FUNCIONAL_INVENTARIO.md",
+      "source_location": "L32"
+    },
+    {
+      "id": "demos_04_inventario_demo_funcional_inventario_objetivo",
+      "label": "Objetivo",
+      "_origin": "ast",
+      "community": 58,
+      "community_name": "Demo funcional de Inventario",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "objetivo",
+      "source_file": "demos/04-inventario/DEMO_FUNCIONAL_INVENTARIO.md",
+      "source_location": "L3"
+    },
+    {
+      "id": "demos_04_inventario_demo_funcional_inventario_resultado_esperado",
+      "label": "Resultado esperado",
+      "_origin": "ast",
+      "community": 58,
+      "community_name": "Demo funcional de Inventario",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "resultado esperado",
+      "source_file": "demos/04-inventario/DEMO_FUNCIONAL_INVENTARIO.md",
+      "source_location": "L36"
+    },
+    {
       "id": "demos_04_inventario_readme",
       "label": "04-inventario/README.md",
       "_origin": "ast",
       "community": 58,
-      "community_name": "04-inventario/README.md",
+      "community_name": "Demo funcional de Inventario",
       "file_type": "document",
       "node_kind": "page",
       "norm_label": "04-inventario/readme.md",
@@ -5962,7 +6511,7 @@
       "label": "Demos de Inventario",
       "_origin": "ast",
       "community": 58,
-      "community_name": "04-inventario/README.md",
+      "community_name": "Demo funcional de Inventario",
       "file_type": "document",
       "node_kind": "heading",
       "norm_label": "demos de inventario",
@@ -5970,11 +6519,95 @@
       "source_location": "L1"
     },
     {
+      "id": "demos_05_contabilidad_facturacion_demo_funcional_contabilidad_facturacion",
+      "label": "DEMO_FUNCIONAL_CONTABILIDAD_FACTURACION.md",
+      "_origin": "ast",
+      "community": 59,
+      "community_name": "Demo funcional de Contabilidad y Facturaci\u00f3n",
+      "file_type": "document",
+      "node_kind": "page",
+      "norm_label": "demo_funcional_contabilidad_facturacion.md",
+      "source_file": "demos/05-contabilidad-facturacion/DEMO_FUNCIONAL_CONTABILIDAD_FACTURACION.md",
+      "source_location": "L1"
+    },
+    {
+      "id": "demos_05_contabilidad_facturacion_demo_funcional_contabilidad_facturacion_datos_preparados",
+      "label": "Datos preparados",
+      "_origin": "ast",
+      "community": 59,
+      "community_name": "Demo funcional de Contabilidad y Facturaci\u00f3n",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "datos preparados",
+      "source_file": "demos/05-contabilidad-facturacion/DEMO_FUNCIONAL_CONTABILIDAD_FACTURACION.md",
+      "source_location": "L7"
+    },
+    {
+      "id": "demos_05_contabilidad_facturacion_demo_funcional_contabilidad_facturacion_demo_funcional_de_contabilidad_y_facturaci\u00f3n",
+      "label": "Demo funcional de Contabilidad y Facturaci\u00f3n",
+      "_origin": "ast",
+      "community": 59,
+      "community_name": "Demo funcional de Contabilidad y Facturaci\u00f3n",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "demo funcional de contabilidad y facturacion",
+      "source_file": "demos/05-contabilidad-facturacion/DEMO_FUNCIONAL_CONTABILIDAD_FACTURACION.md",
+      "source_location": "L1"
+    },
+    {
+      "id": "demos_05_contabilidad_facturacion_demo_funcional_contabilidad_facturacion_guion_sugerido_15_minutos",
+      "label": "Guion sugerido, 15 minutos",
+      "_origin": "ast",
+      "community": 59,
+      "community_name": "Demo funcional de Contabilidad y Facturaci\u00f3n",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "guion sugerido, 15 minutos",
+      "source_file": "demos/05-contabilidad-facturacion/DEMO_FUNCIONAL_CONTABILIDAD_FACTURACION.md",
+      "source_location": "L19"
+    },
+    {
+      "id": "demos_05_contabilidad_facturacion_demo_funcional_contabilidad_facturacion_mensaje_para_el_cliente",
+      "label": "Mensaje para el cliente",
+      "_origin": "ast",
+      "community": 59,
+      "community_name": "Demo funcional de Contabilidad y Facturaci\u00f3n",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "mensaje para el cliente",
+      "source_file": "demos/05-contabilidad-facturacion/DEMO_FUNCIONAL_CONTABILIDAD_FACTURACION.md",
+      "source_location": "L28"
+    },
+    {
+      "id": "demos_05_contabilidad_facturacion_demo_funcional_contabilidad_facturacion_objetivo",
+      "label": "Objetivo",
+      "_origin": "ast",
+      "community": 59,
+      "community_name": "Demo funcional de Contabilidad y Facturaci\u00f3n",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "objetivo",
+      "source_file": "demos/05-contabilidad-facturacion/DEMO_FUNCIONAL_CONTABILIDAD_FACTURACION.md",
+      "source_location": "L3"
+    },
+    {
+      "id": "demos_05_contabilidad_facturacion_demo_funcional_contabilidad_facturacion_resultado_esperado",
+      "label": "Resultado esperado",
+      "_origin": "ast",
+      "community": 59,
+      "community_name": "Demo funcional de Contabilidad y Facturaci\u00f3n",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "resultado esperado",
+      "source_file": "demos/05-contabilidad-facturacion/DEMO_FUNCIONAL_CONTABILIDAD_FACTURACION.md",
+      "source_location": "L32"
+    },
+    {
       "id": "demos_05_contabilidad_facturacion_readme",
       "label": "05-contabilidad-facturacion/README.md",
       "_origin": "ast",
       "community": 59,
-      "community_name": "05-contabilidad-facturacion/README.md",
+      "community_name": "Demo funcional de Contabilidad y Facturaci\u00f3n",
       "file_type": "document",
       "node_kind": "page",
       "norm_label": "05-contabilidad-facturacion/readme.md",
@@ -5986,133 +6619,12 @@
       "label": "Demos de Contabilidad y Facturaci\u00f3n",
       "_origin": "ast",
       "community": 59,
-      "community_name": "05-contabilidad-facturacion/README.md",
+      "community_name": "Demo funcional de Contabilidad y Facturaci\u00f3n",
       "file_type": "document",
       "node_kind": "heading",
       "norm_label": "demos de contabilidad y facturacion",
       "source_file": "demos/05-contabilidad-facturacion/README.md",
       "source_location": "L1"
-    },
-    {
-      "id": "agents_skills_caveman_compress_scripts_cli",
-      "label": "cli.py",
-      "_origin": "ast",
-      "community": 6,
-      "community_name": "cli.py",
-      "file_type": "code",
-      "norm_label": "cli.py",
-      "source_file": ".agents/skills/caveman-compress/scripts/cli.py",
-      "source_location": "L1"
-    },
-    {
-      "id": "agents_skills_caveman_compress_scripts_detect",
-      "label": "detect.py",
-      "_origin": "ast",
-      "community": 6,
-      "community_name": "cli.py",
-      "file_type": "code",
-      "norm_label": "detect.py",
-      "source_file": ".agents/skills/caveman-compress/scripts/detect.py",
-      "source_location": "L1"
-    },
-    {
-      "id": "agents_skills_caveman_compress_scripts_detect_py_path",
-      "label": "Path",
-      "_origin": "ast",
-      "community": 6,
-      "community_name": "cli.py",
-      "file_type": "code",
-      "norm_label": "path",
-      "source_file": "",
-      "source_location": ""
-    },
-    {
-      "id": "agents_skills_caveman_compress_scripts_main",
-      "label": "__main__.py",
-      "_origin": "ast",
-      "community": 6,
-      "community_name": "cli.py",
-      "file_type": "code",
-      "norm_label": "__main__.py",
-      "source_file": ".agents/skills/caveman-compress/scripts/__main__.py",
-      "source_location": "L1"
-    },
-    {
-      "id": "agents_skills_caveman_compress_scripts_cli_rationale_2",
-      "label": "Caveman Compress CLI Usage: caveman <filepath>",
-      "_origin": "ast",
-      "community": 6,
-      "community_name": "cli.py",
-      "file_type": "rationale",
-      "norm_label": "caveman compress cli usage: caveman <filepath>",
-      "source_file": ".agents/skills/caveman-compress/scripts/cli.py",
-      "source_location": "L2"
-    },
-    {
-      "id": "agents_skills_caveman_compress_scripts_detect_rationale_124",
-      "label": "Return True if the file is natural language and should be compressed.",
-      "_origin": "ast",
-      "community": 6,
-      "community_name": "cli.py",
-      "file_type": "rationale",
-      "norm_label": "return true if the file is natural language and should be compressed.",
-      "source_file": ".agents/skills/caveman-compress/scripts/detect.py",
-      "source_location": "L124"
-    },
-    {
-      "id": "agents_skills_caveman_compress_scripts_detect_rationale_2",
-      "label": "Detect whether a file is natural language (compressible) or code/config (skip).",
-      "_origin": "ast",
-      "community": 6,
-      "community_name": "cli.py",
-      "file_type": "rationale",
-      "norm_label": "detect whether a file is natural language (compressible) or code/config (skip).",
-      "source_file": ".agents/skills/caveman-compress/scripts/detect.py",
-      "source_location": "L2"
-    },
-    {
-      "id": "agents_skills_caveman_compress_scripts_detect_rationale_48",
-      "label": "Check if a line looks like code.",
-      "_origin": "ast",
-      "community": 6,
-      "community_name": "cli.py",
-      "file_type": "rationale",
-      "norm_label": "check if a line looks like code.",
-      "source_file": ".agents/skills/caveman-compress/scripts/detect.py",
-      "source_location": "L48"
-    },
-    {
-      "id": "agents_skills_caveman_compress_scripts_detect_rationale_53",
-      "label": "Check if content is valid JSON.",
-      "_origin": "ast",
-      "community": 6,
-      "community_name": "cli.py",
-      "file_type": "rationale",
-      "norm_label": "check if content is valid json.",
-      "source_file": ".agents/skills/caveman-compress/scripts/detect.py",
-      "source_location": "L53"
-    },
-    {
-      "id": "agents_skills_caveman_compress_scripts_detect_rationale_62",
-      "label": "Heuristic: check if content looks like YAML.",
-      "_origin": "ast",
-      "community": 6,
-      "community_name": "cli.py",
-      "file_type": "rationale",
-      "norm_label": "heuristic: check if content looks like yaml.",
-      "source_file": ".agents/skills/caveman-compress/scripts/detect.py",
-      "source_location": "L62"
-    },
-    {
-      "id": "agents_skills_caveman_compress_scripts_detect_rationale_78",
-      "label": "Classify a file as 'natural_language', 'code', 'config', or 'unknown'. Returns:\u2026",
-      "_origin": "ast",
-      "community": 6,
-      "community_name": "cli.py",
-      "file_type": "rationale",
-      "norm_label": "classify a file as 'natural_language', 'code', 'config', or 'unknown'. returns:...",
-      "source_file": ".agents/skills/caveman-compress/scripts/detect.py",
-      "source_location": "L78"
     },
     {
       "id": "demos_07_integracion_readme",
@@ -7643,6 +8155,150 @@
       "weight": 1.0
     },
     {
+      "source": "script_demo_ciclo_comercial_operacional_create_inventory",
+      "target": "script_demo_ciclo_comercial_operacional_ensure_picking",
+      "relation": "calls",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "context": "call",
+      "source_file": "script/demo_ciclo_comercial_operacional.py",
+      "source_location": "L187",
+      "weight": 1.0
+    },
+    {
+      "source": "script_demo_ciclo_comercial_operacional_ensure_picking",
+      "target": "script_demo_ciclo_comercial_operacional_dt",
+      "relation": "calls",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "context": "call",
+      "source_file": "script/demo_ciclo_comercial_operacional.py",
+      "source_location": "L151",
+      "weight": 1.0
+    },
+    {
+      "source": "script_demo_ciclo_comercial_operacional_ensure_sale_order",
+      "target": "script_demo_ciclo_comercial_operacional_dt",
+      "relation": "calls",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "context": "call",
+      "source_file": "script/demo_ciclo_comercial_operacional.py",
+      "source_location": "L116",
+      "weight": 1.0
+    },
+    {
+      "source": "script_demo_ciclo_comercial_operacional_main",
+      "target": "script_demo_proyecto_gdg_load_env",
+      "relation": "calls",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "context": "call",
+      "source_file": "script/demo_ciclo_comercial_operacional.py",
+      "source_location": "L232",
+      "weight": 1.0
+    },
+    {
+      "source": "script_demo_ciclo_comercial_operacional_main",
+      "target": "script_demo_proyecto_gdg_database_from_url",
+      "relation": "calls",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "context": "call",
+      "source_file": "script/demo_ciclo_comercial_operacional.py",
+      "source_location": "L237",
+      "weight": 1.0
+    },
+    {
+      "source": "script_demo_ciclo_comercial_operacional_main",
+      "target": "script_demo_proyecto_gdg_odoo",
+      "relation": "calls",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "context": "call",
+      "source_file": "script/demo_ciclo_comercial_operacional.py",
+      "source_location": "L242",
+      "weight": 1.0
+    },
+    {
+      "source": "script_demo_ciclo_comercial_operacional_main",
+      "target": "script_demo_ciclo_comercial_operacional_ensure_partner",
+      "relation": "calls",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "context": "call",
+      "source_file": "script/demo_ciclo_comercial_operacional.py",
+      "source_location": "L248",
+      "weight": 1.0
+    },
+    {
+      "source": "script_demo_ciclo_comercial_operacional_main",
+      "target": "script_demo_ciclo_comercial_operacional_create_crm",
+      "relation": "calls",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "context": "call",
+      "source_file": "script/demo_ciclo_comercial_operacional.py",
+      "source_location": "L252",
+      "weight": 1.0
+    },
+    {
+      "source": "script_demo_ciclo_comercial_operacional_main",
+      "target": "script_demo_ciclo_comercial_operacional_ensure_product",
+      "relation": "calls",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "context": "call",
+      "source_file": "script/demo_ciclo_comercial_operacional.py",
+      "source_location": "L256",
+      "weight": 1.0
+    },
+    {
+      "source": "script_demo_ciclo_comercial_operacional_main",
+      "target": "script_demo_ciclo_comercial_operacional_ensure_sale_order",
+      "relation": "calls",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "context": "call",
+      "source_file": "script/demo_ciclo_comercial_operacional.py",
+      "source_location": "L260",
+      "weight": 1.0
+    },
+    {
+      "source": "script_demo_ciclo_comercial_operacional_main",
+      "target": "script_demo_ciclo_comercial_operacional_create_inventory",
+      "relation": "calls",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "context": "call",
+      "source_file": "script/demo_ciclo_comercial_operacional.py",
+      "source_location": "L262",
+      "weight": 1.0
+    },
+    {
+      "source": "script_demo_ciclo_comercial_operacional_main",
+      "target": "script_demo_ciclo_comercial_operacional_ensure_invoice",
+      "relation": "calls",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "context": "call",
+      "source_file": "script/demo_ciclo_comercial_operacional.py",
+      "source_location": "L265",
+      "weight": 1.0
+    },
+    {
       "source": "script_demo_compras_integral_ensure_order",
       "target": "script_demo_compras_integral_dt",
       "relation": "calls",
@@ -8123,6 +8779,42 @@
       "weight": 1.0
     },
     {
+      "source": "script_inspect_business_capabilities_main",
+      "target": "script_demo_proyecto_gdg_load_env",
+      "relation": "calls",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "context": "call",
+      "source_file": "script/inspect_business_capabilities.py",
+      "source_location": "L39",
+      "weight": 1.0
+    },
+    {
+      "source": "script_inspect_business_capabilities_main",
+      "target": "script_demo_proyecto_gdg_database_from_url",
+      "relation": "calls",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "context": "call",
+      "source_file": "script/inspect_business_capabilities.py",
+      "source_location": "L42",
+      "weight": 1.0
+    },
+    {
+      "source": "script_inspect_business_capabilities_main",
+      "target": "script_inspect_business_capabilities_rpc",
+      "relation": "calls",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "context": "call",
+      "source_file": "script/inspect_business_capabilities.py",
+      "source_location": "L47",
+      "weight": 1.0
+    },
+    {
       "source": "script_inspect_project_capabilities_main",
       "target": "script_inspect_project_capabilities_load_env",
       "relation": "calls",
@@ -8411,6 +9103,42 @@
       "weight": 1.0
     },
     {
+      "source": "script_demo_ciclo_comercial_operacional",
+      "target": "script_demo_proyecto_gdg_database_from_url",
+      "relation": "imports",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "context": "import",
+      "source_file": "script/demo_ciclo_comercial_operacional.py",
+      "source_location": "L10",
+      "weight": 1.0
+    },
+    {
+      "source": "script_demo_ciclo_comercial_operacional",
+      "target": "script_demo_proyecto_gdg_load_env",
+      "relation": "imports",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "context": "import",
+      "source_file": "script/demo_ciclo_comercial_operacional.py",
+      "source_location": "L10",
+      "weight": 1.0
+    },
+    {
+      "source": "script_demo_ciclo_comercial_operacional",
+      "target": "script_demo_proyecto_gdg_odoo",
+      "relation": "imports",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "context": "import",
+      "source_file": "script/demo_ciclo_comercial_operacional.py",
+      "source_location": "L10",
+      "weight": 1.0
+    },
+    {
       "source": "script_demo_compras_integral",
       "target": "script_demo_proyecto_gdg_database_from_url",
       "relation": "imports",
@@ -8480,6 +9208,30 @@
       "context": "import",
       "source_file": "script/demo_proyecto_ciclo_obra.py",
       "source_location": "L10",
+      "weight": 1.0
+    },
+    {
+      "source": "script_inspect_business_capabilities",
+      "target": "script_demo_proyecto_gdg_database_from_url",
+      "relation": "imports",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "context": "import",
+      "source_file": "script/inspect_business_capabilities.py",
+      "source_location": "L9",
+      "weight": 1.0
+    },
+    {
+      "source": "script_inspect_business_capabilities",
+      "target": "script_demo_proyecto_gdg_load_env",
+      "relation": "imports",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "context": "import",
+      "source_file": "script/inspect_business_capabilities.py",
+      "source_location": "L9",
       "weight": 1.0
     },
     {
@@ -8567,6 +9319,18 @@
       "weight": 1.0
     },
     {
+      "source": "script_demo_ciclo_comercial_operacional",
+      "target": "script_demo_proyecto_gdg",
+      "relation": "imports_from",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "context": "import",
+      "source_file": "script/demo_ciclo_comercial_operacional.py",
+      "source_location": "L10",
+      "weight": 1.0
+    },
+    {
       "source": "script_demo_compras_integral",
       "target": "script_demo_proyecto_gdg",
       "relation": "imports_from",
@@ -8588,6 +9352,18 @@
       "context": "import",
       "source_file": "script/demo_proyecto_ciclo_obra.py",
       "source_location": "L10",
+      "weight": 1.0
+    },
+    {
+      "source": "script_inspect_business_capabilities",
+      "target": "script_demo_proyecto_gdg",
+      "relation": "imports_from",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "context": "import",
+      "source_file": "script/inspect_business_capabilities.py",
+      "source_location": "L9",
       "weight": 1.0
     },
     {
@@ -11608,6 +12384,72 @@
       "weight": 1.0
     },
     {
+      "source": "demos_01_crm_demo_funcional_crm",
+      "target": "demos_01_crm_demo_funcional_crm_demo_funcional_de_crm",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "demos/01-crm/DEMO_FUNCIONAL_CRM.md",
+      "source_location": "L1",
+      "weight": 1.0
+    },
+    {
+      "source": "demos_01_crm_demo_funcional_crm_demo_funcional_de_crm",
+      "target": "demos_01_crm_demo_funcional_crm_guion_sugerido_10_minutos",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "demos/01-crm/DEMO_FUNCIONAL_CRM.md",
+      "source_location": "L20",
+      "weight": 1.0
+    },
+    {
+      "source": "demos_01_crm_demo_funcional_crm_demo_funcional_de_crm",
+      "target": "demos_01_crm_demo_funcional_crm_mensaje_para_el_cliente",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "demos/01-crm/DEMO_FUNCIONAL_CRM.md",
+      "source_location": "L29",
+      "weight": 1.0
+    },
+    {
+      "source": "demos_01_crm_demo_funcional_crm_demo_funcional_de_crm",
+      "target": "demos_01_crm_demo_funcional_crm_objetivo",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "demos/01-crm/DEMO_FUNCIONAL_CRM.md",
+      "source_location": "L3",
+      "weight": 1.0
+    },
+    {
+      "source": "demos_01_crm_demo_funcional_crm_demo_funcional_de_crm",
+      "target": "demos_01_crm_demo_funcional_crm_resultado_esperado",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "demos/01-crm/DEMO_FUNCIONAL_CRM.md",
+      "source_location": "L33",
+      "weight": 1.0
+    },
+    {
+      "source": "demos_01_crm_demo_funcional_crm_demo_funcional_de_crm",
+      "target": "demos_01_crm_demo_funcional_crm_datos_preparados",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "demos/01-crm/DEMO_FUNCIONAL_CRM.md",
+      "source_location": "L7",
+      "weight": 1.0
+    },
+    {
       "source": "demos_01_crm_readme",
       "target": "demos_01_crm_readme_demos_de_crm",
       "relation": "contains",
@@ -11616,6 +12458,72 @@
       "confidence_score": 1.0,
       "source_file": "demos/01-crm/README.md",
       "source_location": "L1",
+      "weight": 1.0
+    },
+    {
+      "source": "demos_02_ventas_demo_funcional_ventas",
+      "target": "demos_02_ventas_demo_funcional_ventas_demo_funcional_de_ventas",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "demos/02-ventas/DEMO_FUNCIONAL_VENTAS.md",
+      "source_location": "L1",
+      "weight": 1.0
+    },
+    {
+      "source": "demos_02_ventas_demo_funcional_ventas_demo_funcional_de_ventas",
+      "target": "demos_02_ventas_demo_funcional_ventas_guion_sugerido_10_minutos",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "demos/02-ventas/DEMO_FUNCIONAL_VENTAS.md",
+      "source_location": "L18",
+      "weight": 1.0
+    },
+    {
+      "source": "demos_02_ventas_demo_funcional_ventas_demo_funcional_de_ventas",
+      "target": "demos_02_ventas_demo_funcional_ventas_mensaje_para_el_cliente",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "demos/02-ventas/DEMO_FUNCIONAL_VENTAS.md",
+      "source_location": "L27",
+      "weight": 1.0
+    },
+    {
+      "source": "demos_02_ventas_demo_funcional_ventas_demo_funcional_de_ventas",
+      "target": "demos_02_ventas_demo_funcional_ventas_objetivo",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "demos/02-ventas/DEMO_FUNCIONAL_VENTAS.md",
+      "source_location": "L3",
+      "weight": 1.0
+    },
+    {
+      "source": "demos_02_ventas_demo_funcional_ventas_demo_funcional_de_ventas",
+      "target": "demos_02_ventas_demo_funcional_ventas_resultado_esperado",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "demos/02-ventas/DEMO_FUNCIONAL_VENTAS.md",
+      "source_location": "L31",
+      "weight": 1.0
+    },
+    {
+      "source": "demos_02_ventas_demo_funcional_ventas_demo_funcional_de_ventas",
+      "target": "demos_02_ventas_demo_funcional_ventas_datos_preparados",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "demos/02-ventas/DEMO_FUNCIONAL_VENTAS.md",
+      "source_location": "L7",
       "weight": 1.0
     },
     {
@@ -11861,6 +12769,72 @@
       "weight": 1.0
     },
     {
+      "source": "demos_04_inventario_demo_funcional_inventario",
+      "target": "demos_04_inventario_demo_funcional_inventario_demo_funcional_de_inventario",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "demos/04-inventario/DEMO_FUNCIONAL_INVENTARIO.md",
+      "source_location": "L1",
+      "weight": 1.0
+    },
+    {
+      "source": "demos_04_inventario_demo_funcional_inventario_demo_funcional_de_inventario",
+      "target": "demos_04_inventario_demo_funcional_inventario_guion_sugerido_10_minutos",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "demos/04-inventario/DEMO_FUNCIONAL_INVENTARIO.md",
+      "source_location": "L23",
+      "weight": 1.0
+    },
+    {
+      "source": "demos_04_inventario_demo_funcional_inventario_demo_funcional_de_inventario",
+      "target": "demos_04_inventario_demo_funcional_inventario_objetivo",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "demos/04-inventario/DEMO_FUNCIONAL_INVENTARIO.md",
+      "source_location": "L3",
+      "weight": 1.0
+    },
+    {
+      "source": "demos_04_inventario_demo_funcional_inventario_demo_funcional_de_inventario",
+      "target": "demos_04_inventario_demo_funcional_inventario_mensaje_para_el_cliente",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "demos/04-inventario/DEMO_FUNCIONAL_INVENTARIO.md",
+      "source_location": "L32",
+      "weight": 1.0
+    },
+    {
+      "source": "demos_04_inventario_demo_funcional_inventario_demo_funcional_de_inventario",
+      "target": "demos_04_inventario_demo_funcional_inventario_resultado_esperado",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "demos/04-inventario/DEMO_FUNCIONAL_INVENTARIO.md",
+      "source_location": "L36",
+      "weight": 1.0
+    },
+    {
+      "source": "demos_04_inventario_demo_funcional_inventario_demo_funcional_de_inventario",
+      "target": "demos_04_inventario_demo_funcional_inventario_datos_preparados",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "demos/04-inventario/DEMO_FUNCIONAL_INVENTARIO.md",
+      "source_location": "L7",
+      "weight": 1.0
+    },
+    {
       "source": "demos_04_inventario_readme",
       "target": "demos_04_inventario_readme_demos_de_inventario",
       "relation": "contains",
@@ -11869,6 +12843,72 @@
       "confidence_score": 1.0,
       "source_file": "demos/04-inventario/README.md",
       "source_location": "L1",
+      "weight": 1.0
+    },
+    {
+      "source": "demos_05_contabilidad_facturacion_demo_funcional_contabilidad_facturacion",
+      "target": "demos_05_contabilidad_facturacion_demo_funcional_contabilidad_facturacion_demo_funcional_de_contabilidad_y_facturaci\u00f3n",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "demos/05-contabilidad-facturacion/DEMO_FUNCIONAL_CONTABILIDAD_FACTURACION.md",
+      "source_location": "L1",
+      "weight": 1.0
+    },
+    {
+      "source": "demos_05_contabilidad_facturacion_demo_funcional_contabilidad_facturacion_demo_funcional_de_contabilidad_y_facturaci\u00f3n",
+      "target": "demos_05_contabilidad_facturacion_demo_funcional_contabilidad_facturacion_guion_sugerido_15_minutos",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "demos/05-contabilidad-facturacion/DEMO_FUNCIONAL_CONTABILIDAD_FACTURACION.md",
+      "source_location": "L19",
+      "weight": 1.0
+    },
+    {
+      "source": "demos_05_contabilidad_facturacion_demo_funcional_contabilidad_facturacion_demo_funcional_de_contabilidad_y_facturaci\u00f3n",
+      "target": "demos_05_contabilidad_facturacion_demo_funcional_contabilidad_facturacion_mensaje_para_el_cliente",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "demos/05-contabilidad-facturacion/DEMO_FUNCIONAL_CONTABILIDAD_FACTURACION.md",
+      "source_location": "L28",
+      "weight": 1.0
+    },
+    {
+      "source": "demos_05_contabilidad_facturacion_demo_funcional_contabilidad_facturacion_demo_funcional_de_contabilidad_y_facturaci\u00f3n",
+      "target": "demos_05_contabilidad_facturacion_demo_funcional_contabilidad_facturacion_objetivo",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "demos/05-contabilidad-facturacion/DEMO_FUNCIONAL_CONTABILIDAD_FACTURACION.md",
+      "source_location": "L3",
+      "weight": 1.0
+    },
+    {
+      "source": "demos_05_contabilidad_facturacion_demo_funcional_contabilidad_facturacion_demo_funcional_de_contabilidad_y_facturaci\u00f3n",
+      "target": "demos_05_contabilidad_facturacion_demo_funcional_contabilidad_facturacion_resultado_esperado",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "demos/05-contabilidad-facturacion/DEMO_FUNCIONAL_CONTABILIDAD_FACTURACION.md",
+      "source_location": "L32",
+      "weight": 1.0
+    },
+    {
+      "source": "demos_05_contabilidad_facturacion_demo_funcional_contabilidad_facturacion_demo_funcional_de_contabilidad_y_facturaci\u00f3n",
+      "target": "demos_05_contabilidad_facturacion_demo_funcional_contabilidad_facturacion_datos_preparados",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "demos/05-contabilidad-facturacion/DEMO_FUNCIONAL_CONTABILIDAD_FACTURACION.md",
+      "source_location": "L7",
       "weight": 1.0
     },
     {
@@ -12939,6 +13979,105 @@
       "weight": 1.0
     },
     {
+      "source": "script_demo_ciclo_comercial_operacional",
+      "target": "script_demo_ciclo_comercial_operacional_ensure_sale_order",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "script/demo_ciclo_comercial_operacional.py",
+      "source_location": "L106",
+      "weight": 1.0
+    },
+    {
+      "source": "script_demo_ciclo_comercial_operacional",
+      "target": "script_demo_ciclo_comercial_operacional_ensure_picking",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "script/demo_ciclo_comercial_operacional.py",
+      "source_location": "L135",
+      "weight": 1.0
+    },
+    {
+      "source": "script_demo_ciclo_comercial_operacional",
+      "target": "script_demo_ciclo_comercial_operacional_create_inventory",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "script/demo_ciclo_comercial_operacional.py",
+      "source_location": "L175",
+      "weight": 1.0
+    },
+    {
+      "source": "script_demo_ciclo_comercial_operacional",
+      "target": "script_demo_ciclo_comercial_operacional_ensure_invoice",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "script/demo_ciclo_comercial_operacional.py",
+      "source_location": "L193",
+      "weight": 1.0
+    },
+    {
+      "source": "script_demo_ciclo_comercial_operacional",
+      "target": "script_demo_ciclo_comercial_operacional_main",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "script/demo_ciclo_comercial_operacional.py",
+      "source_location": "L227",
+      "weight": 1.0
+    },
+    {
+      "source": "script_demo_ciclo_comercial_operacional",
+      "target": "script_demo_ciclo_comercial_operacional_dt",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "script/demo_ciclo_comercial_operacional.py",
+      "source_location": "L61",
+      "weight": 1.0
+    },
+    {
+      "source": "script_demo_ciclo_comercial_operacional",
+      "target": "script_demo_ciclo_comercial_operacional_ensure_partner",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "script/demo_ciclo_comercial_operacional.py",
+      "source_location": "L65",
+      "weight": 1.0
+    },
+    {
+      "source": "script_demo_ciclo_comercial_operacional",
+      "target": "script_demo_ciclo_comercial_operacional_ensure_product",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "script/demo_ciclo_comercial_operacional.py",
+      "source_location": "L74",
+      "weight": 1.0
+    },
+    {
+      "source": "script_demo_ciclo_comercial_operacional",
+      "target": "script_demo_ciclo_comercial_operacional_create_crm",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "script/demo_ciclo_comercial_operacional.py",
+      "source_location": "L84",
+      "weight": 1.0
+    },
+    {
       "source": "script_demo_compras_integral",
       "target": "script_demo_compras_integral_dt",
       "relation": "contains",
@@ -13211,6 +14350,28 @@
       "confidence_score": 1.0,
       "source_file": "script/demo_proyecto_gdg.py",
       "source_location": "L78",
+      "weight": 1.0
+    },
+    {
+      "source": "script_inspect_business_capabilities",
+      "target": "script_inspect_business_capabilities_rpc",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "script/inspect_business_capabilities.py",
+      "source_location": "L30",
+      "weight": 1.0
+    },
+    {
+      "source": "script_inspect_business_capabilities",
+      "target": "script_inspect_business_capabilities_main",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "script/inspect_business_capabilities.py",
+      "source_location": "L35",
       "weight": 1.0
     },
     {
@@ -13918,6 +15079,17 @@
       "weight": 1.0
     },
     {
+      "source": "script_demo_ciclo_comercial_operacional_rationale_2",
+      "target": "script_demo_ciclo_comercial_operacional",
+      "relation": "rationale_for",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "script/demo_ciclo_comercial_operacional.py",
+      "source_location": "L2",
+      "weight": 1.0
+    },
+    {
       "source": "script_demo_compras_integral_rationale_2",
       "target": "script_demo_compras_integral",
       "relation": "rationale_for",
@@ -13958,6 +15130,17 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "script/demo_proyecto_gdg.py",
+      "source_location": "L2",
+      "weight": 1.0
+    },
+    {
+      "source": "script_inspect_business_capabilities_rationale_2",
+      "target": "script_inspect_business_capabilities",
+      "relation": "rationale_for",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "script/inspect_business_capabilities.py",
       "source_location": "L2",
       "weight": 1.0
     },
@@ -14072,6 +15255,28 @@
       "weight": 1.0
     },
     {
+      "source": "demos_01_crm_readme",
+      "target": "demos_01_crm_demo_funcional_crm",
+      "relation": "references",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "demos/01-crm/README.md",
+      "source_location": "L5",
+      "weight": 1.0
+    },
+    {
+      "source": "demos_02_ventas_readme",
+      "target": "demos_02_ventas_demo_funcional_ventas",
+      "relation": "references",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "demos/02-ventas/README.md",
+      "source_location": "L5",
+      "weight": 1.0
+    },
+    {
       "source": "demos_03_compras_readme",
       "target": "demos_03_compras_demo_funcional_compras",
       "relation": "references",
@@ -14080,6 +15285,28 @@
       "confidence_score": 1.0,
       "source_file": "demos/03-compras/README.md",
       "source_location": "L7",
+      "weight": 1.0
+    },
+    {
+      "source": "demos_04_inventario_readme",
+      "target": "demos_04_inventario_demo_funcional_inventario",
+      "relation": "references",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "demos/04-inventario/README.md",
+      "source_location": "L5",
+      "weight": 1.0
+    },
+    {
+      "source": "demos_05_contabilidad_facturacion_readme",
+      "target": "demos_05_contabilidad_facturacion_demo_funcional_contabilidad_facturacion",
+      "relation": "references",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "demos/05-contabilidad-facturacion/README.md",
+      "source_location": "L5",
       "weight": 1.0
     },
     {
@@ -14205,5 +15432,5 @@
     }
   ],
   "hyperedges": [],
-  "built_at_commit": "0024779baf1d1956f951b986196bbd7524f7865f"
+  "built_at_commit": "31254e556b9ba14fafcba16bd25bca9165f79124"
 }
