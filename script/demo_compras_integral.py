@@ -77,6 +77,12 @@ ORDER_SCENARIOS = (
         "note": "Servicio recibido completamente y dentro del plazo para comparar desempeño del proveedor.",
     },
     {
+        "name": "DEMO-PO-RECIBIDA-108", "vendor": "Proveedor Demo Seguridad Industrial",
+        "target": "received", "date": -10, "planned": -5,
+        "lines": (("DEMO-EPP-ARCO", 4, 278000, 2),),
+        "note": "Material almacenable recibido completamente y a tiempo, con trazabilidad hasta Inventario.",
+    },
+    {
         "name": "DEMO-RFQ-PRUEBAS-107", "vendor": "Proveedor Demo Equipos Eléctricos",
         "target": "cancel", "date": -18, "planned": -10,
         "lines": (("DEMO-REL-TEST", 1, 8900000, 0),),

@@ -41,7 +41,8 @@ Cada proveedor tiene datos ficticios y una tarifa con plazo de entrega para los 
 | `DEMO-APR-HORMIGON-103` | Esperando aprobación | Separación entre comprador y responsable. |
 | `DEMO-PO-MONTAJE-104` | Orden confirmada | Recepción pendiente con fecha futura. |
 | `DEMO-PO-ATRASADA-105` | Orden confirmada | Recepción vencida que requiere gestión. |
-| `DEMO-PO-RECIBIDA-106` | Recepción completada | Trazabilidad desde la orden hasta el movimiento. |
+| `DEMO-PO-RECIBIDA-106` | Servicio completado | Cantidad recibida sin movimiento físico de inventario. |
+| `DEMO-PO-RECIBIDA-108` | Material recibido | Recepción física completa y a tiempo en Inventario. |
 | `DEMO-RFQ-PRUEBAS-107` | Solicitud cancelada | Historial de una decisión de compra. |
 
 ## Preparación técnica
@@ -107,7 +108,7 @@ Mensaje: “El catálogo distingue material eléctrico, obras civiles, seguridad
 1. Abrir `DEMO-PO-MONTAJE-104` y usar el botón inteligente de recepción.
 2. Mostrar cantidades solicitadas, recibidas y pendientes.
 3. Abrir `DEMO-PO-ATRASADA-105` y señalar la fecha comprometida vencida y su actividad de seguimiento.
-4. Abrir `DEMO-PO-RECIBIDA-106` y recorrer la recepción completada.
+4. Abrir `DEMO-PO-RECIBIDA-108` y recorrer la recepción física completada.
 5. Volver a la orden para enseñar la trazabilidad entre proveedor, documento y recepción.
 
 ### 7. Reportes y cierre — 2 minutos

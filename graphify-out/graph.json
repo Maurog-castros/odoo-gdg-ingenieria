@@ -955,6 +955,126 @@
       "source_location": "L10"
     },
     {
+      "id": "script_demo_compras_integral_dt",
+      "label": "dt()",
+      "_callable": true,
+      "_origin": "ast",
+      "community": 5,
+      "community_name": "Odoo",
+      "file_type": "code",
+      "norm_label": "dt()",
+      "source_file": "script/demo_compras_integral.py",
+      "source_location": "L100"
+    },
+    {
+      "id": "script_demo_compras_integral_ensure_activity",
+      "label": "ensure_activity()",
+      "_callable": true,
+      "_origin": "ast",
+      "community": 5,
+      "community_name": "Odoo",
+      "file_type": "code",
+      "norm_label": "ensure_activity()",
+      "source_file": "script/demo_compras_integral.py",
+      "source_location": "L204"
+    },
+    {
+      "id": "script_demo_compras_integral_ensure_category",
+      "label": "ensure_category()",
+      "_callable": true,
+      "_origin": "ast",
+      "community": 5,
+      "community_name": "Odoo",
+      "file_type": "code",
+      "norm_label": "ensure_category()",
+      "source_file": "script/demo_compras_integral.py",
+      "source_location": "L104"
+    },
+    {
+      "id": "script_demo_compras_integral_ensure_order",
+      "label": "ensure_order()",
+      "_callable": true,
+      "_origin": "ast",
+      "community": 5,
+      "community_name": "Odoo",
+      "file_type": "code",
+      "norm_label": "ensure_order()",
+      "source_file": "script/demo_compras_integral.py",
+      "source_location": "L133"
+    },
+    {
+      "id": "script_demo_compras_integral_ensure_product",
+      "label": "ensure_product()",
+      "_callable": true,
+      "_origin": "ast",
+      "community": 5,
+      "community_name": "Odoo",
+      "file_type": "code",
+      "norm_label": "ensure_product()",
+      "source_file": "script/demo_compras_integral.py",
+      "source_location": "L108"
+    },
+    {
+      "id": "script_demo_compras_integral_ensure_supplier_price",
+      "label": "ensure_supplier_price()",
+      "_callable": true,
+      "_origin": "ast",
+      "community": 5,
+      "community_name": "Odoo",
+      "file_type": "code",
+      "norm_label": "ensure_supplier_price()",
+      "source_file": "script/demo_compras_integral.py",
+      "source_location": "L122"
+    },
+    {
+      "id": "script_demo_compras_integral_main",
+      "label": "main()",
+      "_callable": true,
+      "_origin": "ast",
+      "community": 5,
+      "community_name": "Odoo",
+      "file_type": "code",
+      "norm_label": "main()",
+      "source_file": "script/demo_compras_integral.py",
+      "source_location": "L217"
+    },
+    {
+      "id": "script_demo_compras_integral_transition_order",
+      "label": "transition_order()",
+      "_callable": true,
+      "_origin": "ast",
+      "community": 5,
+      "community_name": "Odoo",
+      "file_type": "code",
+      "norm_label": "transition_order()",
+      "source_file": "script/demo_compras_integral.py",
+      "source_location": "L164"
+    },
+    {
+      "id": "script_demo_proyecto_ciclo_obra_main",
+      "label": "main()",
+      "_callable": true,
+      "_origin": "ast",
+      "community": 5,
+      "community_name": "Odoo",
+      "file_type": "code",
+      "norm_label": "main()",
+      "source_file": "script/demo_proyecto_ciclo_obra.py",
+      "source_location": "L63"
+    },
+    {
+      "id": "script_demo_proyecto_ciclo_obra_stamp",
+      "label": "stamp()",
+      "_callable": true,
+      "_origin": "ast",
+      "community": 5,
+      "community_name": "Odoo",
+      "file_type": "code",
+      "norm_label": "stamp()",
+      "source_file": "script/demo_proyecto_ciclo_obra.py",
+      "source_location": "L59"
+    },
+    {
       "id": "script_demo_proyecto_gdg_add_chatter",
       "label": "add_chatter()",
       "_callable": true,
@@ -1229,6 +1349,54 @@
       "norm_label": "should_compress()",
       "source_file": ".agents/skills/caveman-compress/scripts/detect.py",
       "source_location": "L123"
+    },
+    {
+      "id": "script_inspect_purchase_capabilities_database_from_url",
+      "label": "database_from_url()",
+      "_callable": true,
+      "_origin": "ast",
+      "community": 64,
+      "community_name": "inspect_purchase_capabilities.py",
+      "file_type": "code",
+      "norm_label": "database_from_url()",
+      "source_file": "script/inspect_purchase_capabilities.py",
+      "source_location": "L40"
+    },
+    {
+      "id": "script_inspect_purchase_capabilities_load_env",
+      "label": "load_env()",
+      "_callable": true,
+      "_origin": "ast",
+      "community": 64,
+      "community_name": "inspect_purchase_capabilities.py",
+      "file_type": "code",
+      "norm_label": "load_env()",
+      "source_file": "script/inspect_purchase_capabilities.py",
+      "source_location": "L25"
+    },
+    {
+      "id": "script_inspect_purchase_capabilities_main",
+      "label": "main()",
+      "_callable": true,
+      "_origin": "ast",
+      "community": 64,
+      "community_name": "inspect_purchase_capabilities.py",
+      "file_type": "code",
+      "norm_label": "main()",
+      "source_file": "script/inspect_purchase_capabilities.py",
+      "source_location": "L48"
+    },
+    {
+      "id": "script_inspect_purchase_capabilities_rpc",
+      "label": "rpc()",
+      "_callable": true,
+      "_origin": "ast",
+      "community": 64,
+      "community_name": "inspect_purchase_capabilities.py",
+      "file_type": "code",
+      "norm_label": "rpc()",
+      "source_file": "script/inspect_purchase_capabilities.py",
+      "source_location": "L35"
     },
     {
       "id": "agents_skills_caveman_compress_scripts_compress",
@@ -4174,18 +4342,6 @@
       "source_location": "L61"
     },
     {
-      "id": "demos_06_proyectos_03_compras_por_proyecto_readme",
-      "label": "03-compras-por-proyecto/README.md",
-      "_origin": "ast",
-      "community": 32,
-      "community_name": "06-proyectos/README.md",
-      "file_type": "document",
-      "node_kind": "page",
-      "norm_label": "03-compras-por-proyecto/readme.md",
-      "source_file": "demos/06-proyectos/03-compras-por-proyecto/README.md",
-      "source_location": "L1"
-    },
-    {
       "id": "demos_06_proyectos_demo_puesta_servicio_subestacion_readme",
       "label": "demo-puesta-servicio-subestacion/README.md",
       "_origin": "ast",
@@ -4243,7 +4399,19 @@
       "node_kind": "heading",
       "norm_label": "orden recomendado",
       "source_file": "demos/06-proyectos/README.md",
-      "source_location": "L15"
+      "source_location": "L16"
+    },
+    {
+      "id": "demos_06_proyectos_03_compras_por_proyecto_readme",
+      "label": "03-compras-por-proyecto/README.md",
+      "_origin": "ast",
+      "community": 33,
+      "community_name": "Demo: compras imputadas a un proyecto",
+      "file_type": "document",
+      "node_kind": "page",
+      "norm_label": "03-compras-por-proyecto/readme.md",
+      "source_file": "demos/06-proyectos/03-compras-por-proyecto/README.md",
+      "source_location": "L1"
     },
     {
       "id": "demos_06_proyectos_03_compras_por_proyecto_readme_caso_de_negocio",
@@ -5252,6 +5420,28 @@
       "source_location": "L6"
     },
     {
+      "id": "script_demo_compras_integral",
+      "label": "demo_compras_integral.py",
+      "_origin": "ast",
+      "community": 5,
+      "community_name": "Odoo",
+      "file_type": "code",
+      "norm_label": "demo_compras_integral.py",
+      "source_file": "script/demo_compras_integral.py",
+      "source_location": "L1"
+    },
+    {
+      "id": "script_demo_proyecto_ciclo_obra",
+      "label": "demo_proyecto_ciclo_obra.py",
+      "_origin": "ast",
+      "community": 5,
+      "community_name": "Odoo",
+      "file_type": "code",
+      "norm_label": "demo_proyecto_ciclo_obra.py",
+      "source_file": "script/demo_proyecto_ciclo_obra.py",
+      "source_location": "L1"
+    },
+    {
       "id": "script_demo_proyecto_gdg",
       "label": "demo_proyecto_gdg.py",
       "_origin": "ast",
@@ -5261,6 +5451,28 @@
       "norm_label": "demo_proyecto_gdg.py",
       "source_file": "script/demo_proyecto_gdg.py",
       "source_location": "L1"
+    },
+    {
+      "id": "script_demo_compras_integral_rationale_2",
+      "label": "Create an idempotent, end-to-end Purchase demo for GDG Ingenier\u00eda.",
+      "_origin": "ast",
+      "community": 5,
+      "community_name": "Odoo",
+      "file_type": "rationale",
+      "norm_label": "create an idempotent, end-to-end purchase demo for gdg ingenieria.",
+      "source_file": "script/demo_compras_integral.py",
+      "source_location": "L2"
+    },
+    {
+      "id": "script_demo_proyecto_ciclo_obra_rationale_2",
+      "label": "Create a four-stage, full-cycle construction project demo in Odoo.",
+      "_origin": "ast",
+      "community": 5,
+      "community_name": "Odoo",
+      "file_type": "rationale",
+      "norm_label": "create a four-stage, full-cycle construction project demo in odoo.",
+      "source_file": "script/demo_proyecto_ciclo_obra.py",
+      "source_location": "L2"
     },
     {
       "id": "script_demo_proyecto_gdg_rationale_2",
@@ -5458,11 +5670,263 @@
       "source_location": "L1"
     },
     {
+      "id": "demos_03_compras_demo_funcional_compras",
+      "label": "DEMO_FUNCIONAL_COMPRAS.md",
+      "_origin": "ast",
+      "community": 57,
+      "community_name": "Demo funcional integral de Compras",
+      "file_type": "document",
+      "node_kind": "page",
+      "norm_label": "demo_funcional_compras.md",
+      "source_file": "demos/03-compras/DEMO_FUNCIONAL_COMPRAS.md",
+      "source_location": "L1"
+    },
+    {
+      "id": "demos_03_compras_demo_funcional_compras_1_panel_de_control_3_minutos",
+      "label": "1. Panel de control \u2014 3 minutos",
+      "_origin": "ast",
+      "community": 57,
+      "community_name": "Demo funcional integral de Compras",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "1. panel de control \u2014 3 minutos",
+      "source_file": "demos/03-compras/DEMO_FUNCIONAL_COMPRAS.md",
+      "source_location": "L67"
+    },
+    {
+      "id": "demos_03_compras_demo_funcional_compras_2_categor\u00edas_y_cat\u00e1logo_4_minutos",
+      "label": "2. Categor\u00edas y cat\u00e1logo \u2014 4 minutos",
+      "_origin": "ast",
+      "community": 57,
+      "community_name": "Demo funcional integral de Compras",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "2. categorias y catalogo \u2014 4 minutos",
+      "source_file": "demos/03-compras/DEMO_FUNCIONAL_COMPRAS.md",
+      "source_location": "L75"
+    },
+    {
+      "id": "demos_03_compras_demo_funcional_compras_3_proveedores_y_tarifas_4_minutos",
+      "label": "3. Proveedores y tarifas \u2014 4 minutos",
+      "_origin": "ast",
+      "community": 57,
+      "community_name": "Demo funcional integral de Compras",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "3. proveedores y tarifas \u2014 4 minutos",
+      "source_file": "demos/03-compras/DEMO_FUNCIONAL_COMPRAS.md",
+      "source_location": "L84"
+    },
+    {
+      "id": "demos_03_compras_demo_funcional_compras_4_solicitud_y_negociaci\u00f3n_4_minutos",
+      "label": "4. Solicitud y negociaci\u00f3n \u2014 4 minutos",
+      "_origin": "ast",
+      "community": 57,
+      "community_name": "Demo funcional integral de Compras",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "4. solicitud y negociacion \u2014 4 minutos",
+      "source_file": "demos/03-compras/DEMO_FUNCIONAL_COMPRAS.md",
+      "source_location": "L91"
+    },
+    {
+      "id": "demos_03_compras_demo_funcional_compras_5_aprobaci\u00f3n_de_compra_3_minutos",
+      "label": "5. Aprobaci\u00f3n de compra \u2014 3 minutos",
+      "_origin": "ast",
+      "community": 57,
+      "community_name": "Demo funcional integral de Compras",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "5. aprobacion de compra \u2014 3 minutos",
+      "source_file": "demos/03-compras/DEMO_FUNCIONAL_COMPRAS.md",
+      "source_location": "L99"
+    },
+    {
+      "id": "demos_03_compras_demo_funcional_compras_6_orden_y_recepci\u00f3n_5_minutos",
+      "label": "6. Orden y recepci\u00f3n \u2014 5 minutos",
+      "_origin": "ast",
+      "community": 57,
+      "community_name": "Demo funcional integral de Compras",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "6. orden y recepcion \u2014 5 minutos",
+      "source_file": "demos/03-compras/DEMO_FUNCIONAL_COMPRAS.md",
+      "source_location": "L106"
+    },
+    {
+      "id": "demos_03_compras_demo_funcional_compras_7_reportes_y_cierre_2_minutos",
+      "label": "7. Reportes y cierre \u2014 2 minutos",
+      "_origin": "ast",
+      "community": 57,
+      "community_name": "Demo funcional integral de Compras",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "7. reportes y cierre \u2014 2 minutos",
+      "source_file": "demos/03-compras/DEMO_FUNCIONAL_COMPRAS.md",
+      "source_location": "L114"
+    },
+    {
+      "id": "demos_03_compras_demo_funcional_compras_categor\u00edas",
+      "label": "Categor\u00edas",
+      "_origin": "ast",
+      "community": 57,
+      "community_name": "Demo funcional integral de Compras",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "categorias",
+      "source_file": "demos/03-compras/DEMO_FUNCIONAL_COMPRAS.md",
+      "source_location": "L15"
+    },
+    {
+      "id": "demos_03_compras_demo_funcional_compras_datos_preparados",
+      "label": "Datos preparados",
+      "_origin": "ast",
+      "community": 57,
+      "community_name": "Demo funcional integral de Compras",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "datos preparados",
+      "source_file": "demos/03-compras/DEMO_FUNCIONAL_COMPRAS.md",
+      "source_location": "L13"
+    },
+    {
+      "id": "demos_03_compras_demo_funcional_compras_demo_funcional_integral_de_compras",
+      "label": "Demo funcional integral de Compras",
+      "_origin": "ast",
+      "community": 57,
+      "community_name": "Demo funcional integral de Compras",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "demo funcional integral de compras",
+      "source_file": "demos/03-compras/DEMO_FUNCIONAL_COMPRAS.md",
+      "source_location": "L1"
+    },
+    {
+      "id": "demos_03_compras_demo_funcional_compras_documentos_de_compra",
+      "label": "Documentos de compra",
+      "_origin": "ast",
+      "community": 57,
+      "community_name": "Demo funcional integral de Compras",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "documentos de compra",
+      "source_file": "demos/03-compras/DEMO_FUNCIONAL_COMPRAS.md",
+      "source_location": "L35"
+    },
+    {
+      "id": "demos_03_compras_demo_funcional_compras_funcionalidades_que_deben_quedar_visibles",
+      "label": "Funcionalidades que deben quedar visibles",
+      "_origin": "ast",
+      "community": 57,
+      "community_name": "Demo funcional integral de Compras",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "funcionalidades que deben quedar visibles",
+      "source_file": "demos/03-compras/DEMO_FUNCIONAL_COMPRAS.md",
+      "source_location": "L121"
+    },
+    {
+      "id": "demos_03_compras_demo_funcional_compras_guion_de_presentaci\u00f3n_25_minutos",
+      "label": "Guion de presentaci\u00f3n \u2014 25 minutos",
+      "_origin": "ast",
+      "community": 57,
+      "community_name": "Demo funcional integral de Compras",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "guion de presentacion \u2014 25 minutos",
+      "source_file": "demos/03-compras/DEMO_FUNCIONAL_COMPRAS.md",
+      "source_location": "L65"
+    },
+    {
+      "id": "demos_03_compras_demo_funcional_compras_historia_que_se_contar\u00e1",
+      "label": "Historia que se contar\u00e1",
+      "_origin": "ast",
+      "community": 57,
+      "community_name": "Demo funcional integral de Compras",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "historia que se contara",
+      "source_file": "demos/03-compras/DEMO_FUNCIONAL_COMPRAS.md",
+      "source_location": "L9"
+    },
+    {
+      "id": "demos_03_compras_demo_funcional_compras_lista_de_control_antes_de_la_reuni\u00f3n",
+      "label": "Lista de control antes de la reuni\u00f3n",
+      "_origin": "ast",
+      "community": 57,
+      "community_name": "Demo funcional integral de Compras",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "lista de control antes de la reunion",
+      "source_file": "demos/03-compras/DEMO_FUNCIONAL_COMPRAS.md",
+      "source_location": "L143"
+    },
+    {
+      "id": "demos_03_compras_demo_funcional_compras_objetivo",
+      "label": "Objetivo",
+      "_origin": "ast",
+      "community": 57,
+      "community_name": "Demo funcional integral de Compras",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "objetivo",
+      "source_file": "demos/03-compras/DEMO_FUNCIONAL_COMPRAS.md",
+      "source_location": "L3"
+    },
+    {
+      "id": "demos_03_compras_demo_funcional_compras_preparaci\u00f3n_t\u00e9cnica",
+      "label": "Preparaci\u00f3n t\u00e9cnica",
+      "_origin": "ast",
+      "community": 57,
+      "community_name": "Demo funcional integral de Compras",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "preparacion tecnica",
+      "source_file": "demos/03-compras/DEMO_FUNCIONAL_COMPRAS.md",
+      "source_location": "L48"
+    },
+    {
+      "id": "demos_03_compras_demo_funcional_compras_proveedores",
+      "label": "Proveedores",
+      "_origin": "ast",
+      "community": 57,
+      "community_name": "Demo funcional integral de Compras",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "proveedores",
+      "source_file": "demos/03-compras/DEMO_FUNCIONAL_COMPRAS.md",
+      "source_location": "L25"
+    },
+    {
+      "id": "demos_03_compras_demo_funcional_compras_resultado_esperado",
+      "label": "Resultado esperado",
+      "_origin": "ast",
+      "community": 57,
+      "community_name": "Demo funcional integral de Compras",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "resultado esperado",
+      "source_file": "demos/03-compras/DEMO_FUNCIONAL_COMPRAS.md",
+      "source_location": "L153"
+    },
+    {
+      "id": "demos_03_compras_demo_funcional_compras_usuarios_sugeridos",
+      "label": "Usuarios sugeridos",
+      "_origin": "ast",
+      "community": 57,
+      "community_name": "Demo funcional integral de Compras",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "usuarios sugeridos",
+      "source_file": "demos/03-compras/DEMO_FUNCIONAL_COMPRAS.md",
+      "source_location": "L137"
+    },
+    {
       "id": "demos_03_compras_readme",
       "label": "03-compras/README.md",
       "_origin": "ast",
       "community": 57,
-      "community_name": "03-compras/README.md",
+      "community_name": "Demo funcional integral de Compras",
       "file_type": "document",
       "node_kind": "page",
       "norm_label": "03-compras/readme.md",
@@ -5474,7 +5938,7 @@
       "label": "Demos de Compras",
       "_origin": "ast",
       "community": 57,
-      "community_name": "03-compras/README.md",
+      "community_name": "Demo funcional integral de Compras",
       "file_type": "document",
       "node_kind": "heading",
       "norm_label": "demos de compras",
@@ -5737,6 +6201,88 @@
       "norm_label": "caveman-learn/skill.md",
       "source_file": ".agents/skills/caveman-learn/SKILL.md",
       "source_location": "L1"
+    },
+    {
+      "id": "script_inspect_purchase_capabilities",
+      "label": "inspect_purchase_capabilities.py",
+      "_origin": "ast",
+      "community": 64,
+      "community_name": "inspect_purchase_capabilities.py",
+      "file_type": "code",
+      "norm_label": "inspect_purchase_capabilities.py",
+      "source_file": "script/inspect_purchase_capabilities.py",
+      "source_location": "L1"
+    },
+    {
+      "id": "script_inspect_purchase_capabilities_rationale_2",
+      "label": "Inspect Odoo Purchase capabilities without modifying business data.",
+      "_origin": "ast",
+      "community": 64,
+      "community_name": "inspect_purchase_capabilities.py",
+      "file_type": "rationale",
+      "norm_label": "inspect odoo purchase capabilities without modifying business data.",
+      "source_file": "script/inspect_purchase_capabilities.py",
+      "source_location": "L2"
+    },
+    {
+      "id": "demos_06_proyectos_demo_ciclo_completo_obra_readme",
+      "label": "demo-ciclo-completo-obra/README.md",
+      "_origin": "ast",
+      "community": 65,
+      "community_name": "Demo: ciclo completo de una obra",
+      "file_type": "document",
+      "node_kind": "page",
+      "norm_label": "demo-ciclo-completo-obra/readme.md",
+      "source_file": "demos/06-proyectos/demo-ciclo-completo-obra/README.md",
+      "source_location": "L1"
+    },
+    {
+      "id": "demos_06_proyectos_demo_ciclo_completo_obra_readme_demo_ciclo_completo_de_una_obra",
+      "label": "Demo: ciclo completo de una obra",
+      "_origin": "ast",
+      "community": 65,
+      "community_name": "Demo: ciclo completo de una obra",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "demo: ciclo completo de una obra",
+      "source_file": "demos/06-proyectos/demo-ciclo-completo-obra/README.md",
+      "source_location": "L1"
+    },
+    {
+      "id": "demos_06_proyectos_demo_ciclo_completo_obra_readme_etapas",
+      "label": "Etapas",
+      "_origin": "ast",
+      "community": 65,
+      "community_name": "Demo: ciclo completo de una obra",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "etapas",
+      "source_file": "demos/06-proyectos/demo-ciclo-completo-obra/README.md",
+      "source_location": "L5"
+    },
+    {
+      "id": "demos_06_proyectos_demo_ciclo_completo_obra_readme_preparaci\u00f3n",
+      "label": "Preparaci\u00f3n",
+      "_origin": "ast",
+      "community": 65,
+      "community_name": "Demo: ciclo completo de una obra",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "preparacion",
+      "source_file": "demos/06-proyectos/demo-ciclo-completo-obra/README.md",
+      "source_location": "L14"
+    },
+    {
+      "id": "demos_06_proyectos_demo_ciclo_completo_obra_readme_recorrido_funcional",
+      "label": "Recorrido funcional",
+      "_origin": "ast",
+      "community": 65,
+      "community_name": "Demo: ciclo completo de una obra",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "recorrido funcional",
+      "source_file": "demos/06-proyectos/demo-ciclo-completo-obra/README.md",
+      "source_location": "L23"
     },
     {
       "id": "agents_skills_cavecrew_skill",
@@ -7097,6 +7643,138 @@
       "weight": 1.0
     },
     {
+      "source": "script_demo_compras_integral_ensure_order",
+      "target": "script_demo_compras_integral_dt",
+      "relation": "calls",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "context": "call",
+      "source_file": "script/demo_compras_integral.py",
+      "source_location": "L145",
+      "weight": 1.0
+    },
+    {
+      "source": "script_demo_compras_integral_main",
+      "target": "script_demo_proyecto_gdg_load_env",
+      "relation": "calls",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "context": "call",
+      "source_file": "script/demo_compras_integral.py",
+      "source_location": "L222",
+      "weight": 1.0
+    },
+    {
+      "source": "script_demo_compras_integral_main",
+      "target": "script_demo_proyecto_gdg_database_from_url",
+      "relation": "calls",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "context": "call",
+      "source_file": "script/demo_compras_integral.py",
+      "source_location": "L227",
+      "weight": 1.0
+    },
+    {
+      "source": "script_demo_compras_integral_main",
+      "target": "script_demo_proyecto_gdg_odoo",
+      "relation": "calls",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "context": "call",
+      "source_file": "script/demo_compras_integral.py",
+      "source_location": "L232",
+      "weight": 1.0
+    },
+    {
+      "source": "script_demo_compras_integral_main",
+      "target": "script_demo_compras_integral_ensure_category",
+      "relation": "calls",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "context": "call",
+      "source_file": "script/demo_compras_integral.py",
+      "source_location": "L239",
+      "weight": 1.0
+    },
+    {
+      "source": "script_demo_compras_integral_main",
+      "target": "script_demo_compras_integral_ensure_product",
+      "relation": "calls",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "context": "call",
+      "source_file": "script/demo_compras_integral.py",
+      "source_location": "L250",
+      "weight": 1.0
+    },
+    {
+      "source": "script_demo_compras_integral_main",
+      "target": "script_demo_compras_integral_ensure_supplier_price",
+      "relation": "calls",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "context": "call",
+      "source_file": "script/demo_compras_integral.py",
+      "source_location": "L260",
+      "weight": 1.0
+    },
+    {
+      "source": "script_demo_compras_integral_main",
+      "target": "script_demo_compras_integral_ensure_order",
+      "relation": "calls",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "context": "call",
+      "source_file": "script/demo_compras_integral.py",
+      "source_location": "L264",
+      "weight": 1.0
+    },
+    {
+      "source": "script_demo_compras_integral_main",
+      "target": "script_demo_compras_integral_transition_order",
+      "relation": "calls",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "context": "call",
+      "source_file": "script/demo_compras_integral.py",
+      "source_location": "L266",
+      "weight": 1.0
+    },
+    {
+      "source": "script_demo_compras_integral_main",
+      "target": "script_demo_compras_integral_ensure_activity",
+      "relation": "calls",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "context": "call",
+      "source_file": "script/demo_compras_integral.py",
+      "source_location": "L269",
+      "weight": 1.0
+    },
+    {
+      "source": "script_demo_compras_integral_transition_order",
+      "target": "script_demo_compras_integral_dt",
+      "relation": "calls",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "context": "call",
+      "source_file": "script/demo_compras_integral.py",
+      "source_location": "L196",
+      "weight": 1.0
+    },
+    {
       "source": "script_demo_nuevo_item_compra_find_id",
       "target": "script_demo_nuevo_item_compra_call",
       "relation": "calls",
@@ -7214,6 +7892,54 @@
       "context": "call",
       "source_file": "script/demo_nuevo_item_compra.py",
       "source_location": "L140",
+      "weight": 1.0
+    },
+    {
+      "source": "script_demo_proyecto_ciclo_obra_main",
+      "target": "script_demo_proyecto_ciclo_obra_stamp",
+      "relation": "calls",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "context": "call",
+      "source_file": "script/demo_proyecto_ciclo_obra.py",
+      "source_location": "L115",
+      "weight": 1.0
+    },
+    {
+      "source": "script_demo_proyecto_ciclo_obra_main",
+      "target": "script_demo_proyecto_gdg_load_env",
+      "relation": "calls",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "context": "call",
+      "source_file": "script/demo_proyecto_ciclo_obra.py",
+      "source_location": "L69",
+      "weight": 1.0
+    },
+    {
+      "source": "script_demo_proyecto_ciclo_obra_main",
+      "target": "script_demo_proyecto_gdg_database_from_url",
+      "relation": "calls",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "context": "call",
+      "source_file": "script/demo_proyecto_ciclo_obra.py",
+      "source_location": "L74",
+      "weight": 1.0
+    },
+    {
+      "source": "script_demo_proyecto_ciclo_obra_main",
+      "target": "script_demo_proyecto_gdg_odoo",
+      "relation": "calls",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "context": "call",
+      "source_file": "script/demo_proyecto_ciclo_obra.py",
+      "source_location": "L79",
       "weight": 1.0
     },
     {
@@ -7433,6 +8159,42 @@
       "weight": 1.0
     },
     {
+      "source": "script_inspect_purchase_capabilities_main",
+      "target": "script_inspect_purchase_capabilities_load_env",
+      "relation": "calls",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "context": "call",
+      "source_file": "script/inspect_purchase_capabilities.py",
+      "source_location": "L52",
+      "weight": 1.0
+    },
+    {
+      "source": "script_inspect_purchase_capabilities_main",
+      "target": "script_inspect_purchase_capabilities_database_from_url",
+      "relation": "calls",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "context": "call",
+      "source_file": "script/inspect_purchase_capabilities.py",
+      "source_location": "L55",
+      "weight": 1.0
+    },
+    {
+      "source": "script_inspect_purchase_capabilities_main",
+      "target": "script_inspect_purchase_capabilities_rpc",
+      "relation": "calls",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "context": "call",
+      "source_file": "script/inspect_purchase_capabilities.py",
+      "source_location": "L60",
+      "weight": 1.0
+    },
+    {
       "source": "script_seed_demo_data_available_models",
       "target": "script_seed_demo_data_call",
       "relation": "calls",
@@ -7649,6 +8411,78 @@
       "weight": 1.0
     },
     {
+      "source": "script_demo_compras_integral",
+      "target": "script_demo_proyecto_gdg_database_from_url",
+      "relation": "imports",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "context": "import",
+      "source_file": "script/demo_compras_integral.py",
+      "source_location": "L10",
+      "weight": 1.0
+    },
+    {
+      "source": "script_demo_compras_integral",
+      "target": "script_demo_proyecto_gdg_load_env",
+      "relation": "imports",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "context": "import",
+      "source_file": "script/demo_compras_integral.py",
+      "source_location": "L10",
+      "weight": 1.0
+    },
+    {
+      "source": "script_demo_compras_integral",
+      "target": "script_demo_proyecto_gdg_odoo",
+      "relation": "imports",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "context": "import",
+      "source_file": "script/demo_compras_integral.py",
+      "source_location": "L10",
+      "weight": 1.0
+    },
+    {
+      "source": "script_demo_proyecto_ciclo_obra",
+      "target": "script_demo_proyecto_gdg_database_from_url",
+      "relation": "imports",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "context": "import",
+      "source_file": "script/demo_proyecto_ciclo_obra.py",
+      "source_location": "L10",
+      "weight": 1.0
+    },
+    {
+      "source": "script_demo_proyecto_ciclo_obra",
+      "target": "script_demo_proyecto_gdg_load_env",
+      "relation": "imports",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "context": "import",
+      "source_file": "script/demo_proyecto_ciclo_obra.py",
+      "source_location": "L10",
+      "weight": 1.0
+    },
+    {
+      "source": "script_demo_proyecto_ciclo_obra",
+      "target": "script_demo_proyecto_gdg_odoo",
+      "relation": "imports",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "context": "import",
+      "source_file": "script/demo_proyecto_ciclo_obra.py",
+      "source_location": "L10",
+      "weight": 1.0
+    },
+    {
       "source": "agents_skills_caveman_compress_scripts_benchmark",
       "target": "agents_skills_caveman_compress_scripts_validate",
       "relation": "imports_from",
@@ -7730,6 +8564,30 @@
       "context": "import",
       "source_file": ".agents/skills/caveman-learn/tests/index.js",
       "source_location": "L1",
+      "weight": 1.0
+    },
+    {
+      "source": "script_demo_compras_integral",
+      "target": "script_demo_proyecto_gdg",
+      "relation": "imports_from",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "context": "import",
+      "source_file": "script/demo_compras_integral.py",
+      "source_location": "L10",
+      "weight": 1.0
+    },
+    {
+      "source": "script_demo_proyecto_ciclo_obra",
+      "target": "script_demo_proyecto_gdg",
+      "relation": "imports_from",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "context": "import",
+      "source_file": "script/demo_proyecto_ciclo_obra.py",
+      "source_location": "L10",
       "weight": 1.0
     },
     {
@@ -10772,6 +11630,226 @@
       "weight": 1.0
     },
     {
+      "source": "demos_03_compras_demo_funcional_compras",
+      "target": "demos_03_compras_demo_funcional_compras_demo_funcional_integral_de_compras",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "demos/03-compras/DEMO_FUNCIONAL_COMPRAS.md",
+      "source_location": "L1",
+      "weight": 1.0
+    },
+    {
+      "source": "demos_03_compras_demo_funcional_compras_datos_preparados",
+      "target": "demos_03_compras_demo_funcional_compras_categor\u00edas",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "demos/03-compras/DEMO_FUNCIONAL_COMPRAS.md",
+      "source_location": "L15",
+      "weight": 1.0
+    },
+    {
+      "source": "demos_03_compras_demo_funcional_compras_datos_preparados",
+      "target": "demos_03_compras_demo_funcional_compras_proveedores",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "demos/03-compras/DEMO_FUNCIONAL_COMPRAS.md",
+      "source_location": "L25",
+      "weight": 1.0
+    },
+    {
+      "source": "demos_03_compras_demo_funcional_compras_datos_preparados",
+      "target": "demos_03_compras_demo_funcional_compras_documentos_de_compra",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "demos/03-compras/DEMO_FUNCIONAL_COMPRAS.md",
+      "source_location": "L35",
+      "weight": 1.0
+    },
+    {
+      "source": "demos_03_compras_demo_funcional_compras_demo_funcional_integral_de_compras",
+      "target": "demos_03_compras_demo_funcional_compras_funcionalidades_que_deben_quedar_visibles",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "demos/03-compras/DEMO_FUNCIONAL_COMPRAS.md",
+      "source_location": "L121",
+      "weight": 1.0
+    },
+    {
+      "source": "demos_03_compras_demo_funcional_compras_demo_funcional_integral_de_compras",
+      "target": "demos_03_compras_demo_funcional_compras_datos_preparados",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "demos/03-compras/DEMO_FUNCIONAL_COMPRAS.md",
+      "source_location": "L13",
+      "weight": 1.0
+    },
+    {
+      "source": "demos_03_compras_demo_funcional_compras_demo_funcional_integral_de_compras",
+      "target": "demos_03_compras_demo_funcional_compras_usuarios_sugeridos",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "demos/03-compras/DEMO_FUNCIONAL_COMPRAS.md",
+      "source_location": "L137",
+      "weight": 1.0
+    },
+    {
+      "source": "demos_03_compras_demo_funcional_compras_demo_funcional_integral_de_compras",
+      "target": "demos_03_compras_demo_funcional_compras_lista_de_control_antes_de_la_reuni\u00f3n",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "demos/03-compras/DEMO_FUNCIONAL_COMPRAS.md",
+      "source_location": "L143",
+      "weight": 1.0
+    },
+    {
+      "source": "demos_03_compras_demo_funcional_compras_demo_funcional_integral_de_compras",
+      "target": "demos_03_compras_demo_funcional_compras_resultado_esperado",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "demos/03-compras/DEMO_FUNCIONAL_COMPRAS.md",
+      "source_location": "L153",
+      "weight": 1.0
+    },
+    {
+      "source": "demos_03_compras_demo_funcional_compras_demo_funcional_integral_de_compras",
+      "target": "demos_03_compras_demo_funcional_compras_objetivo",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "demos/03-compras/DEMO_FUNCIONAL_COMPRAS.md",
+      "source_location": "L3",
+      "weight": 1.0
+    },
+    {
+      "source": "demos_03_compras_demo_funcional_compras_demo_funcional_integral_de_compras",
+      "target": "demos_03_compras_demo_funcional_compras_preparaci\u00f3n_t\u00e9cnica",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "demos/03-compras/DEMO_FUNCIONAL_COMPRAS.md",
+      "source_location": "L48",
+      "weight": 1.0
+    },
+    {
+      "source": "demos_03_compras_demo_funcional_compras_demo_funcional_integral_de_compras",
+      "target": "demos_03_compras_demo_funcional_compras_guion_de_presentaci\u00f3n_25_minutos",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "demos/03-compras/DEMO_FUNCIONAL_COMPRAS.md",
+      "source_location": "L65",
+      "weight": 1.0
+    },
+    {
+      "source": "demos_03_compras_demo_funcional_compras_demo_funcional_integral_de_compras",
+      "target": "demos_03_compras_demo_funcional_compras_historia_que_se_contar\u00e1",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "demos/03-compras/DEMO_FUNCIONAL_COMPRAS.md",
+      "source_location": "L9",
+      "weight": 1.0
+    },
+    {
+      "source": "demos_03_compras_demo_funcional_compras_guion_de_presentaci\u00f3n_25_minutos",
+      "target": "demos_03_compras_demo_funcional_compras_6_orden_y_recepci\u00f3n_5_minutos",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "demos/03-compras/DEMO_FUNCIONAL_COMPRAS.md",
+      "source_location": "L106",
+      "weight": 1.0
+    },
+    {
+      "source": "demos_03_compras_demo_funcional_compras_guion_de_presentaci\u00f3n_25_minutos",
+      "target": "demos_03_compras_demo_funcional_compras_7_reportes_y_cierre_2_minutos",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "demos/03-compras/DEMO_FUNCIONAL_COMPRAS.md",
+      "source_location": "L114",
+      "weight": 1.0
+    },
+    {
+      "source": "demos_03_compras_demo_funcional_compras_guion_de_presentaci\u00f3n_25_minutos",
+      "target": "demos_03_compras_demo_funcional_compras_1_panel_de_control_3_minutos",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "demos/03-compras/DEMO_FUNCIONAL_COMPRAS.md",
+      "source_location": "L67",
+      "weight": 1.0
+    },
+    {
+      "source": "demos_03_compras_demo_funcional_compras_guion_de_presentaci\u00f3n_25_minutos",
+      "target": "demos_03_compras_demo_funcional_compras_2_categor\u00edas_y_cat\u00e1logo_4_minutos",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "demos/03-compras/DEMO_FUNCIONAL_COMPRAS.md",
+      "source_location": "L75",
+      "weight": 1.0
+    },
+    {
+      "source": "demos_03_compras_demo_funcional_compras_guion_de_presentaci\u00f3n_25_minutos",
+      "target": "demos_03_compras_demo_funcional_compras_3_proveedores_y_tarifas_4_minutos",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "demos/03-compras/DEMO_FUNCIONAL_COMPRAS.md",
+      "source_location": "L84",
+      "weight": 1.0
+    },
+    {
+      "source": "demos_03_compras_demo_funcional_compras_guion_de_presentaci\u00f3n_25_minutos",
+      "target": "demos_03_compras_demo_funcional_compras_4_solicitud_y_negociaci\u00f3n_4_minutos",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "demos/03-compras/DEMO_FUNCIONAL_COMPRAS.md",
+      "source_location": "L91",
+      "weight": 1.0
+    },
+    {
+      "source": "demos_03_compras_demo_funcional_compras_guion_de_presentaci\u00f3n_25_minutos",
+      "target": "demos_03_compras_demo_funcional_compras_5_aprobaci\u00f3n_de_compra_3_minutos",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "demos/03-compras/DEMO_FUNCIONAL_COMPRAS.md",
+      "source_location": "L99",
+      "weight": 1.0
+    },
+    {
       "source": "demos_03_compras_readme",
       "target": "demos_03_compras_readme_demos_de_compras",
       "relation": "contains",
@@ -11179,6 +12257,50 @@
       "weight": 1.0
     },
     {
+      "source": "demos_06_proyectos_demo_ciclo_completo_obra_readme",
+      "target": "demos_06_proyectos_demo_ciclo_completo_obra_readme_demo_ciclo_completo_de_una_obra",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "demos/06-proyectos/demo-ciclo-completo-obra/README.md",
+      "source_location": "L1",
+      "weight": 1.0
+    },
+    {
+      "source": "demos_06_proyectos_demo_ciclo_completo_obra_readme_demo_ciclo_completo_de_una_obra",
+      "target": "demos_06_proyectos_demo_ciclo_completo_obra_readme_preparaci\u00f3n",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "demos/06-proyectos/demo-ciclo-completo-obra/README.md",
+      "source_location": "L14",
+      "weight": 1.0
+    },
+    {
+      "source": "demos_06_proyectos_demo_ciclo_completo_obra_readme_demo_ciclo_completo_de_una_obra",
+      "target": "demos_06_proyectos_demo_ciclo_completo_obra_readme_recorrido_funcional",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "demos/06-proyectos/demo-ciclo-completo-obra/README.md",
+      "source_location": "L23",
+      "weight": 1.0
+    },
+    {
+      "source": "demos_06_proyectos_demo_ciclo_completo_obra_readme_demo_ciclo_completo_de_una_obra",
+      "target": "demos_06_proyectos_demo_ciclo_completo_obra_readme_etapas",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "demos/06-proyectos/demo-ciclo-completo-obra/README.md",
+      "source_location": "L5",
+      "weight": 1.0
+    },
+    {
       "source": "demos_06_proyectos_demo_puesta_servicio_subestacion_readme",
       "target": "demos_06_proyectos_demo_puesta_servicio_subestacion_readme_demo_puesta_en_servicio_de_una_subestaci\u00f3n",
       "relation": "contains",
@@ -11274,7 +12396,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "demos/06-proyectos/README.md",
-      "source_location": "L15",
+      "source_location": "L16",
       "weight": 1.0
     },
     {
@@ -11817,6 +12939,94 @@
       "weight": 1.0
     },
     {
+      "source": "script_demo_compras_integral",
+      "target": "script_demo_compras_integral_dt",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "script/demo_compras_integral.py",
+      "source_location": "L100",
+      "weight": 1.0
+    },
+    {
+      "source": "script_demo_compras_integral",
+      "target": "script_demo_compras_integral_ensure_category",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "script/demo_compras_integral.py",
+      "source_location": "L104",
+      "weight": 1.0
+    },
+    {
+      "source": "script_demo_compras_integral",
+      "target": "script_demo_compras_integral_ensure_product",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "script/demo_compras_integral.py",
+      "source_location": "L108",
+      "weight": 1.0
+    },
+    {
+      "source": "script_demo_compras_integral",
+      "target": "script_demo_compras_integral_ensure_supplier_price",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "script/demo_compras_integral.py",
+      "source_location": "L122",
+      "weight": 1.0
+    },
+    {
+      "source": "script_demo_compras_integral",
+      "target": "script_demo_compras_integral_ensure_order",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "script/demo_compras_integral.py",
+      "source_location": "L133",
+      "weight": 1.0
+    },
+    {
+      "source": "script_demo_compras_integral",
+      "target": "script_demo_compras_integral_transition_order",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "script/demo_compras_integral.py",
+      "source_location": "L164",
+      "weight": 1.0
+    },
+    {
+      "source": "script_demo_compras_integral",
+      "target": "script_demo_compras_integral_ensure_activity",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "script/demo_compras_integral.py",
+      "source_location": "L204",
+      "weight": 1.0
+    },
+    {
+      "source": "script_demo_compras_integral",
+      "target": "script_demo_compras_integral_main",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "script/demo_compras_integral.py",
+      "source_location": "L217",
+      "weight": 1.0
+    },
+    {
       "source": "script_demo_nuevo_item_compra",
       "target": "script_demo_nuevo_item_compra_main",
       "relation": "contains",
@@ -11891,6 +13101,28 @@
       "confidence_score": 1.0,
       "source_file": "script/demo_nuevo_item_compra.py",
       "source_location": "L75",
+      "weight": 1.0
+    },
+    {
+      "source": "script_demo_proyecto_ciclo_obra",
+      "target": "script_demo_proyecto_ciclo_obra_stamp",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "script/demo_proyecto_ciclo_obra.py",
+      "source_location": "L59",
+      "weight": 1.0
+    },
+    {
+      "source": "script_demo_proyecto_ciclo_obra",
+      "target": "script_demo_proyecto_ciclo_obra_main",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "script/demo_proyecto_ciclo_obra.py",
+      "source_location": "L63",
       "weight": 1.0
     },
     {
@@ -12023,6 +13255,50 @@
       "confidence_score": 1.0,
       "source_file": "script/inspect_project_capabilities.py",
       "source_location": "L58",
+      "weight": 1.0
+    },
+    {
+      "source": "script_inspect_purchase_capabilities",
+      "target": "script_inspect_purchase_capabilities_load_env",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "script/inspect_purchase_capabilities.py",
+      "source_location": "L25",
+      "weight": 1.0
+    },
+    {
+      "source": "script_inspect_purchase_capabilities",
+      "target": "script_inspect_purchase_capabilities_rpc",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "script/inspect_purchase_capabilities.py",
+      "source_location": "L35",
+      "weight": 1.0
+    },
+    {
+      "source": "script_inspect_purchase_capabilities",
+      "target": "script_inspect_purchase_capabilities_database_from_url",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "script/inspect_purchase_capabilities.py",
+      "source_location": "L40",
+      "weight": 1.0
+    },
+    {
+      "source": "script_inspect_purchase_capabilities",
+      "target": "script_inspect_purchase_capabilities_main",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "script/inspect_purchase_capabilities.py",
+      "source_location": "L48",
       "weight": 1.0
     },
     {
@@ -12642,6 +13918,17 @@
       "weight": 1.0
     },
     {
+      "source": "script_demo_compras_integral_rationale_2",
+      "target": "script_demo_compras_integral",
+      "relation": "rationale_for",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "script/demo_compras_integral.py",
+      "source_location": "L2",
+      "weight": 1.0
+    },
+    {
       "source": "script_demo_nuevo_item_compra_rationale_2",
       "target": "script_demo_nuevo_item_compra",
       "relation": "rationale_for",
@@ -12649,6 +13936,17 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "script/demo_nuevo_item_compra.py",
+      "source_location": "L2",
+      "weight": 1.0
+    },
+    {
+      "source": "script_demo_proyecto_ciclo_obra_rationale_2",
+      "target": "script_demo_proyecto_ciclo_obra",
+      "relation": "rationale_for",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "script/demo_proyecto_ciclo_obra.py",
       "source_location": "L2",
       "weight": 1.0
     },
@@ -12671,6 +13969,17 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "script/inspect_project_capabilities.py",
+      "source_location": "L2",
+      "weight": 1.0
+    },
+    {
+      "source": "script_inspect_purchase_capabilities_rationale_2",
+      "target": "script_inspect_purchase_capabilities",
+      "relation": "rationale_for",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "script/inspect_purchase_capabilities.py",
       "source_location": "L2",
       "weight": 1.0
     },
@@ -12763,8 +14072,19 @@
       "weight": 1.0
     },
     {
+      "source": "demos_03_compras_readme",
+      "target": "demos_03_compras_demo_funcional_compras",
+      "relation": "references",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "demos/03-compras/README.md",
+      "source_location": "L7",
+      "weight": 1.0
+    },
+    {
       "source": "demos_06_proyectos_readme",
-      "target": "demos_06_proyectos_04_inventario_y_trazabilidad_en_obra_readme",
+      "target": "demos_06_proyectos_03_compras_por_proyecto_readme",
       "relation": "references",
       "_origin": "ast",
       "confidence": "EXTRACTED",
@@ -12775,7 +14095,7 @@
     },
     {
       "source": "demos_06_proyectos_readme",
-      "target": "demos_06_proyectos_05_gastos_de_terreno_readme",
+      "target": "demos_06_proyectos_04_inventario_y_trazabilidad_en_obra_readme",
       "relation": "references",
       "_origin": "ast",
       "confidence": "EXTRACTED",
@@ -12786,7 +14106,7 @@
     },
     {
       "source": "demos_06_proyectos_readme",
-      "target": "demos_06_proyectos_06_facturacion_del_proyecto_readme",
+      "target": "demos_06_proyectos_05_gastos_de_terreno_readme",
       "relation": "references",
       "_origin": "ast",
       "confidence": "EXTRACTED",
@@ -12797,13 +14117,24 @@
     },
     {
       "source": "demos_06_proyectos_readme",
-      "target": "demos_06_proyectos_07_rentabilidad_del_proyecto_readme",
+      "target": "demos_06_proyectos_06_facturacion_del_proyecto_readme",
       "relation": "references",
       "_origin": "ast",
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "demos/06-proyectos/README.md",
       "source_location": "L13",
+      "weight": 1.0
+    },
+    {
+      "source": "demos_06_proyectos_readme",
+      "target": "demos_06_proyectos_07_rentabilidad_del_proyecto_readme",
+      "relation": "references",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "demos/06-proyectos/README.md",
+      "source_location": "L14",
       "weight": 1.0
     },
     {
@@ -12819,7 +14150,7 @@
     },
     {
       "source": "demos_06_proyectos_readme",
-      "target": "demos_06_proyectos_02_cotizacion_partidas_internas_readme",
+      "target": "demos_06_proyectos_demo_ciclo_completo_obra_readme",
       "relation": "references",
       "_origin": "ast",
       "confidence": "EXTRACTED",
@@ -12830,7 +14161,7 @@
     },
     {
       "source": "demos_06_proyectos_readme",
-      "target": "demos_06_proyectos_03_compras_por_proyecto_readme",
+      "target": "demos_06_proyectos_02_cotizacion_partidas_internas_readme",
       "relation": "references",
       "_origin": "ast",
       "confidence": "EXTRACTED",
@@ -12874,5 +14205,5 @@
     }
   ],
   "hyperedges": [],
-  "built_at_commit": "9086545213be415dbe0884d0bbfbaa66cdde5c49"
+  "built_at_commit": "0024779baf1d1956f951b986196bbd7524f7865f"
 }

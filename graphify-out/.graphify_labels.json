@@ -56,11 +56,13 @@
   "54": "extraction-spec.md",
   "55": "01-crm/README.md",
   "56": "02-ventas/README.md",
-  "57": "03-compras/README.md",
+  "57": "Demo funcional integral de Compras",
   "58": "04-inventario/README.md",
   "59": "05-contabilidad-facturacion/README.md",
   "60": "07-integracion/README.md",
   "61": "demo_users.sh",
   "62": "caveman-explore/SKILL.md",
-  "63": "caveman-learn/SKILL.md"
+  "63": "caveman-learn/SKILL.md",
+  "64": "inspect_purchase_capabilities.py",
+  "65": "Demo: ciclo completo de una obra"
 }

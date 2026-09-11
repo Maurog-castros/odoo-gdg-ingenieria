@@ -408,9 +408,9 @@
     "semantic_hash": ""
   },
   "demos/03-compras/README.md": {
-    "mtime": 1789146633.078257,
-    "seen": 1789147449.180526,
-    "ast_hash": "7dc2450f6998b940a08cf48bc85300a5",
+    "mtime": 1789153060.9773352,
+    "seen": 1789154755.152032,
+    "ast_hash": "de251fb5ce541d591731966a68409ca0",
     "semantic_hash": ""
   },
   "demos/04-inventario/README.md": {
@@ -426,9 +426,9 @@
     "semantic_hash": ""
   },
   "demos/06-proyectos/README.md": {
-    "mtime": 1789147996.5268233,
-    "seen": 1789149648.2148302,
-    "ast_hash": "8133ca9344e73a6af2a23cae7b2fbdc0",
+    "mtime": 1789154562.8818092,
+    "seen": 1789154755.152066,
+    "ast_hash": "b7696f11f805fcb8446b7d29956db7b6",
     "semantic_hash": ""
   },
   "demos/06-proyectos/demo-puesta-servicio-subestacion/README.md": {
@@ -519,6 +519,36 @@
     "mtime": 1789151024.678546,
     "seen": 1789151228.82697,
     "ast_hash": "eb1de2e7555faa950e374166dee24098",
+    "semantic_hash": ""
+  },
+  "script/demo_compras_integral.py": {
+    "mtime": 1789154323.1871822,
+    "seen": 1789154755.151823,
+    "ast_hash": "ac9c5d96da27d9fcf7412804f15abfe1",
+    "semantic_hash": ""
+  },
+  "script/demo_proyecto_ciclo_obra.py": {
+    "mtime": 1789154562.5493553,
+    "seen": 1789154755.15183,
+    "ast_hash": "926e9c43bc8c77e8df3a060cd78766a0",
+    "semantic_hash": ""
+  },
+  "script/inspect_purchase_capabilities.py": {
+    "mtime": 1789152849.2468696,
+    "seen": 1789154755.15184,
+    "ast_hash": "3474a40fff6b065e7fe138bfe7394c08",
+    "semantic_hash": ""
+  },
+  "demos/03-compras/DEMO_FUNCIONAL_COMPRAS.md": {
+    "mtime": 1789154745.820899,
+    "seen": 1789154755.152029,
+    "ast_hash": "43e7af1f8eea619dcb556b9e28a7b2bd",
+    "semantic_hash": ""
+  },
+  "demos/06-proyectos/demo-ciclo-completo-obra/README.md": {
+    "mtime": 1789154562.7574618,
+    "seen": 1789154755.152069,
+    "ast_hash": "51ae9d7e00d278ddc331f76b3303f72a",
     "semantic_hash": ""
   }
 }

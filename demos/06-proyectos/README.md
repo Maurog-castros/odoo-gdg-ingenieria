@@ -5,6 +5,7 @@ Casos relacionados con proyectos, tareas, responsables, etapas, tiempos y avance
 ## Casos disponibles
 
 - [Puesta en servicio de una subestación](demo-puesta-servicio-subestacion/README.md): proyecto con montaje, pruebas eléctricas y cierre documental.
+- [Ciclo completo de una obra](demo-ciclo-completo-obra/README.md): cotización, diagnóstico, ejecución y entrega con cuatro tareas por etapa.
 - [Cotización con partidas internas](02-cotizacion-partidas-internas/README.md): resumen comercial y desglose interno de costos.
 - [Compras por proyecto](03-compras-por-proyecto/README.md): compras, recepción e imputación a una obra.
 - [Inventario y trazabilidad en obra](04-inventario-y-trazabilidad-en-obra/README.md): transferencias entre bodega central y obra.

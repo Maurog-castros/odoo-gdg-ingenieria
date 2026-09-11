@@ -1,16 +1,16 @@
 # Graph Report - proyecto-odoo-dgd-ingenieria  (2026-09-11)
 
 ## Corpus Check
-- 80 files · ~41,228 words
+- 85 files · ~45,989 words
 - Verdict: corpus is large enough that graph structure adds value.
 
 ## Summary
-- 518 nodes · 591 edges · 64 communities (42 shown, 20 thin omitted)
+- 564 nodes · 660 edges · 66 communities (45 shown, 19 thin omitted)
 - Extraction: 100% EXTRACTED · 0% INFERRED · 0% AMBIGUOUS
 - Token cost: 0 input · 0 output
 
 ## Graph Freshness
-- Built from commit: `90865452`
+- Built from commit: `0024779b`
 - Run `git rev-parse HEAD` and compare to check if the graph is stale.
 - Run `graphify update .` after code changes (no API cost).
 
@@ -72,23 +72,25 @@
 - extraction-spec.md
 - 01-crm/README.md
 - 02-ventas/README.md
-- 03-compras/README.md
+- Demo funcional integral de Compras
 - 04-inventario/README.md
 - 05-contabilidad-facturacion/README.md
 - 07-integracion/README.md
 - demo_users.sh
+- inspect_purchase_capabilities.py
+- Demo: ciclo completo de una obra
 
 ## God Nodes (most connected - your core abstractions)
 1. `_compress_file_locked()` - 18 edges
-2. `validate()` - 14 edges
-3. `What You Must Do When Invoked` - 12 edges
-4. `Odoo` - 11 edges
-5. `/graphify` - 10 edges
-6. `detect_file_type()` - 9 edges
-7. `backup_dir_for()` - 8 edges
-8. `file_lock()` - 8 edges
-9. `should_compress()` - 8 edges
-10. `main()` - 8 edges
+2. `Odoo` - 15 edges
+3. `validate()` - 14 edges
+4. `What You Must Do When Invoked` - 12 edges
+5. `main()` - 10 edges
+6. `/graphify` - 10 edges
+7. `Demo funcional integral de Compras` - 10 edges
+8. `detect_file_type()` - 9 edges
+9. `backup_dir_for()` - 8 edges
+10. `file_lock()` - 8 edges
 
 ## Surprising Connections (you probably didn't know these)
 - `main()` --calls--> `backup_dir_for()`  [EXTRACTED]
@@ -105,7 +107,7 @@
 ## Import Cycles
 - None detected.
 
-## Communities (64 total, 20 thin omitted)
+## Communities (66 total, 19 thin omitted)
 
 ### Community 0 - "compress.py"
 Cohesion: 0.08
@@ -128,8 +130,8 @@ Cohesion: 0.09
 Nodes (20): Before / After, Benchmarks, How It Work, <img src="../../docs/assets/dancing-rock.svg" width="20" height="20" alt="rock"/> Caveman (285 tokens), Install, Original (706 tokens), Part of Caveman, Security (+12 more)
 
 ### Community 5 - "Odoo"
-Cohesion: 0.19
-Nodes (9): add_chatter(), database_from_url(), day(), deadline(), load_env(), main(), Odoo, Create an attractive, idempotent GDG Project demo in Odoo. (+1 more)
+Cohesion: 0.13
+Nodes (21): dt(), ensure_activity(), ensure_category(), ensure_order(), ensure_product(), ensure_supplier_price(), main(), Create an idempotent, end-to-end Purchase demo for GDG Ingeniería. (+13 more)
 
 ### Community 6 - "cli.py"
 Cohesion: 0.18
@@ -236,11 +238,11 @@ Cohesion: 0.33
 Nodes (5): For /graphify explain, For /graphify path, graphify reference: query, path, explain, Step 0 — Constrained query expansion (REQUIRED before traversal), Step 1 — Traversal
 
 ### Community 32 - "06-proyectos/README.md"
-Cohesion: 0.33
+Cohesion: 0.40
 Nodes (3): Casos disponibles, Demos de Proyectos, Orden recomendado
 
 ### Community 33 - "Demo: compras imputadas a un proyecto"
-Cohesion: 0.33
+Cohesion: 0.29
 Nodes (6): Caso de negocio, Demo: compras imputadas a un proyecto, Objetivo, Pasos, Resultado esperado, Validación
 
 ### Community 34 - "Demo: facturación del proyecto"
@@ -275,25 +277,37 @@ Nodes (3): For git commit hook, For native CLAUDE.md integration, graphify refer
 Cohesion: 0.50
 Nodes (3): For --cluster-only, For --update (incremental re-extraction), graphify reference: incremental update and cluster-only
 
+### Community 57 - "Demo funcional integral de Compras"
+Cohesion: 0.09
+Nodes (21): 1. Panel de control — 3 minutos, 2. Categorías y catálogo — 4 minutos, 3. Proveedores y tarifas — 4 minutos, 4. Solicitud y negociación — 4 minutos, 5. Aprobación de compra — 3 minutos, 6. Orden y recepción — 5 minutos, 7. Reportes y cierre — 2 minutos, Categorías (+13 more)
+
+### Community 64 - "inspect_purchase_capabilities.py"
+Cohesion: 0.53
+Nodes (5): database_from_url(), load_env(), main(), Inspect Odoo Purchase capabilities without modifying business data., rpc()
+
+### Community 65 - "Demo: ciclo completo de una obra"
+Cohesion: 0.40
+Nodes (4): Demo: ciclo completo de una obra, Etapas, Preparación, Recorrido funcional
+
 ## Knowledge Gaps
-- **247 isolated node(s):** `name`, `version`, `license`, `private`, `type` (+242 more)
-  These have ≤1 connection - possible missing edges or undocumented components. (Counts symbols only; 330 node(s) total have ≤1 connection when file, concept and rationale nodes are included.)
-- **20 thin communities (<3 nodes) omitted from report** — run `graphify query` to explore isolated nodes.
+- **267 isolated node(s):** `name`, `version`, `license`, `private`, `type` (+262 more)
+  These have ≤1 connection - possible missing edges or undocumented components. (Counts symbols only; 352 node(s) total have ≤1 connection when file, concept and rationale nodes are included.)
+- **19 thin communities (<3 nodes) omitted from report** — run `graphify query` to explore isolated nodes.
 
 ## Suggested Questions
 _Questions this graph is uniquely positioned to answer:_
 
 - **Why does `validate()` connect `validate.py` to `compress.py`?**
-  _High betweenness centrality (0.008) - this node is a cross-community bridge._
+  _High betweenness centrality (0.006) - this node is a cross-community bridge._
 - **Why does `_compress_file_locked()` connect `compress.py` to `validate.py`, `cli.py`?**
-  _High betweenness centrality (0.004) - this node is a cross-community bridge._
+  _High betweenness centrality (0.003) - this node is a cross-community bridge._
+- **Why does `Demo: puesta en servicio de una subestación` connect `Demo: puesta en servicio de una subestación` to `06-proyectos/README.md`?**
+  _High betweenness centrality (0.002) - this node is a cross-community bridge._
 - **What connects `name`, `version`, `license` to the rest of the system?**
-  _247 weakly-connected nodes found - possible documentation gaps or missing edges._
+  _267 weakly-connected nodes found - possible documentation gaps or missing edges._
 - **Should `compress.py` be split into smaller, more focused modules?**
   _Cohesion score 0.07585568917668825 - nodes in this community are weakly interconnected._
 - **Should `validate.py` be split into smaller, more focused modules?**
   _Cohesion score 0.10160427807486631 - nodes in this community are weakly interconnected._
 - **Should `Perfil de GDG Ingeniería` be split into smaller, more focused modules?**
   _Cohesion score 0.07142857142857142 - nodes in this community are weakly interconnected._
-- **Should `What You Must Do When Invoked` be split into smaller, more focused modules?**
-  _Cohesion score 0.08 - nodes in this community are weakly interconnected._
