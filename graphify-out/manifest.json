@@ -1,0 +1,110 @@
+{
+  ".agents/skills/caveman-compress/scripts/__init__.py": {
+    "mtime": 1789146808.0634892,
+    "seen": 1789146978.532095,
+    "ast_hash": "4bfea67395a7ba04f363df51355d1ef8",
+    "semantic_hash": "4bfea67395a7ba04f363df51355d1ef8"
+  },
+  ".agents/skills/caveman-compress/scripts/__main__.py": {
+    "mtime": 1789146808.0647693,
+    "seen": 1789146978.5321019,
+    "ast_hash": "746aff14c3a098a28fe9d01d54f174a9",
+    "semantic_hash": "746aff14c3a098a28fe9d01d54f174a9"
+  },
+  ".agents/skills/caveman-compress/scripts/benchmark.py": {
+    "mtime": 1789146808.064746,
+    "seen": 1789146978.532107,
+    "ast_hash": "a84586774a335e7dd894f45f5fc2aaf5",
+    "semantic_hash": "a84586774a335e7dd894f45f5fc2aaf5"
+  },
+  ".agents/skills/caveman-compress/scripts/cli.py": {
+    "mtime": 1789146808.0640256,
+    "seen": 1789146978.5321112,
+    "ast_hash": "993604200cad4bb12bdb2efcdb45fcf5",
+    "semantic_hash": "993604200cad4bb12bdb2efcdb45fcf5"
+  },
+  ".agents/skills/caveman-compress/scripts/compress.py": {
+    "mtime": 1789146808.0646973,
+    "seen": 1789146978.532114,
+    "ast_hash": "e26f07d9d279a8e2f720690cf4c436a6",
+    "semantic_hash": "e26f07d9d279a8e2f720690cf4c436a6"
+  },
+  ".agents/skills/caveman-compress/scripts/detect.py": {
+    "mtime": 1789146808.063421,
+    "seen": 1789146978.532118,
+    "ast_hash": "c21187cf75dd074c140edd4afeade324",
+    "semantic_hash": "c21187cf75dd074c140edd4afeade324"
+  },
+  ".agents/skills/caveman-compress/scripts/validate.py": {
+    "mtime": 1789146808.066301,
+    "seen": 1789146978.5321212,
+    "ast_hash": "429d344b38c853b2814dc80a6c47f70c",
+    "semantic_hash": "429d344b38c853b2814dc80a6c47f70c"
+  },
+  ".agents/skills/caveman-explore/package.json": {
+    "mtime": 1789146808.4973001,
+    "seen": 1789146978.5321229,
+    "ast_hash": "79f12a1d584823a99bc09a2ad4e02fe8",
+    "semantic_hash": "79f12a1d584823a99bc09a2ad4e02fe8"
+  },
+  ".agents/skills/caveman-explore/tests/skill-file.test.mjs": {
+    "mtime": 1789146808.4984467,
+    "seen": 1789146978.532126,
+    "ast_hash": "6915626578a39000dde6502615741ac8",
+    "semantic_hash": "6915626578a39000dde6502615741ac8"
+  },
+  ".agents/skills/caveman-learn/package.json": {
+    "mtime": 1789146808.9031522,
+    "seen": 1789146978.532129,
+    "ast_hash": "86afddb0e3eb113395e9b69cfbff069e",
+    "semantic_hash": "86afddb0e3eb113395e9b69cfbff069e"
+  },
+  ".agents/skills/caveman-learn/tests/index.js": {
+    "mtime": 1789146808.9037573,
+    "seen": 1789146978.532136,
+    "ast_hash": "4989b939dbebf136dbbe6cce47bb1287",
+    "semantic_hash": "4989b939dbebf136dbbe6cce47bb1287"
+  },
+  ".agents/skills/caveman-learn/tests/skill-file.test.mjs": {
+    "mtime": 1789146808.9058042,
+    "seen": 1789146978.5321448,
+    "ast_hash": "688b94f0ccc44fd3e265998e7f669f7d",
+    "semantic_hash": "688b94f0ccc44fd3e265998e7f669f7d"
+  },
+  ".codex/hooks.json": {
+    "mtime": 1789146751.717801,
+    "seen": 1789146978.532147,
+    "ast_hash": "005ac71c84af2cae38e255e2b9de2411",
+    "semantic_hash": "005ac71c84af2cae38e255e2b9de2411"
+  },
+  "script/creacion-usuarios/create_users.py": {
+    "mtime": 1789145295.6618674,
+    "seen": 1789146978.53215,
+    "ast_hash": "b13795c739ef8a0ece75156784bb330f",
+    "semantic_hash": "b13795c739ef8a0ece75156784bb330f"
+  },
+  "script/creacion-usuarios/demo_users.sh": {
+    "mtime": 1789143315.1505978,
+    "seen": 1789146978.5321522,
+    "ast_hash": "d41d8cd98f00b204e9800998ecf8427e",
+    "semantic_hash": "d41d8cd98f00b204e9800998ecf8427e"
+  },
+  "script/demo_nuevo_item_compra.py": {
+    "mtime": 1789146469.167488,
+    "seen": 1789146978.5321548,
+    "ast_hash": "4c5f70774e572290aedd7015d4a8d476",
+    "semantic_hash": "4c5f70774e572290aedd7015d4a8d476"
+  },
+  "script/seed_demo_data.py": {
+    "mtime": 1789146043.7788827,
+    "seen": 1789146978.532157,
+    "ast_hash": "58bc391c9aa938a54e840632fc5dc7ca",
+    "semantic_hash": "58bc391c9aa938a54e840632fc5dc7ca"
+  },
+  "skills-lock.json": {
+    "mtime": 1789146810.3873525,
+    "seen": 1789146978.532159,
+    "ast_hash": "3e04085c1eafd5ce2c6cf21de5df7aa2",
+    "semantic_hash": "3e04085c1eafd5ce2c6cf21de5df7aa2"
+  }
+}

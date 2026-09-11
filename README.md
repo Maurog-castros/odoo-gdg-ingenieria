@@ -64,3 +64,7 @@ python3 script/seed_demo_data.py --env script/creacion-usuarios/.env
 ```
 
 El script evita duplicar contactos, productos, oportunidades y documentos con los nombres demo. Haz una copia de seguridad y revisa el entorno antes de usarlo en una base compartida.
+
+## Organización de demos
+
+Los nuevos casos de prueba se organizan en [demos](demos/README.md), separados por área funcional. Cada demo debe incluir una explicación sencilla en `README.md`, datos ficticios en `data/` y automatizaciones en `scripts/` cuando sean necesarias.
